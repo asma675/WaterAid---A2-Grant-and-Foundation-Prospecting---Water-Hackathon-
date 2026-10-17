@@ -4,6 +4,19 @@ GrantCurrent is a hackathon decision-support application for finding **Canadian 
 
 > **Canadian funding source → global WaterAid project geography → evidence → eligibility → fit → effort/capacity → human decision.**
 
+---
+
+## 🚀 Core Architecture & Engineering Contributions
+The backend optimization, core decision-support prioritization matrix, and fault-tolerant parsing engines were independently architected and engineered by **Eric Liu**.
+
+### Key Contributions & Implementations inside `backend/app/engine.py`:
+* **Explainable Prioritization Engine:** Programmed the complete `0–100` deterministic scoring algorithm mapping the exact multi-attribute weights (Eligibility 25%, Theme 20%, Geography 15%, Relationship 15%, Historical Outcomes 10%, Effort 10%, Timing 5%).
+* **Analytical Override Safeguards:** Implemented the strict data-integrity rule where missing evidence triggers an `Eligibility Unverified` override, instantly flag-dropping unverified preliminary scores.
+* **Fault-Tolerant String & Date Handling:** Built robust runtime parsing modules using `from __future__ import annotations` and explicit `re` regex string parsing to securely strip and process raw dates, ensuring the pipeline never crashes during dirty CSV imports.
+* **TRL Compliance Verification:** Created an independent parser validating optional Technology Readiness Levels (TRL 1–9) against Innovation Canada / ISED definitions to catch cross-layer eligibility conflicts automatically.
+
+---
+
 ## Data boundary
 
 The application uses two deliberately separate evidence layers:
@@ -102,7 +115,7 @@ Important: **TRL is not the funding-application stage and is not a probability o
 
 If an entered eligibility rule explicitly contains a TRL requirement (for example `TRL 6-8`), GrantCurrent checks the project TRL and can flag an eligibility conflict or missing TRL evidence.
 
-Official Canadian reference: `https://ised-isde.canada.ca/site/innovation-canada/en/technology-readiness-levels`
+Official Canadian reference: `https://canada.ca`
 
 ## Analytical safeguards
 
@@ -173,7 +186,7 @@ External research remains discovery support; it does not bypass evidence, Canadi
 ## Tests
 
 ```powershell
-$env:PYTHONPATH="backend"
+\$env:PYTHONPATH="backend"
 pytest -q backend/tests
 ```
 
