@@ -1,0 +1,12 @@
+# SYNTHETIC - FICTIONAL ORGANIZATION FOR THE WATER CHALLENGE - NOT WATERAID DATA
+step,name,cadence,owner,mode,input,output,staff_time,control
+1,Monitor sources,"Weekly (Mon, automated)",Tool,Automated,Source register (L2_Source_Register),New/changed page snapshots with retrieved date,0 staff hrs,"Every snapshot keeps URL + date; changes flagged, not overwritten"
+2,Extract opportunities,Weekly (automated),Tool,Automated,Snapshots,Opportunity records in the shared format (schemas/opportunity),0 staff hrs,"Every field carries a source quote; missing = null, never guessed"
+3,Screen hard gates,Weekly (automated),Tool,Automated,Opportunities + eligibility passport,"Pass / Fail / Uncertain per gate, citing passport IDs",0 staff hrs,Fail = decline logged with reason; Uncertain = REVIEW queue
+4,Score and rank,Weekly (automated),Tool,Automated,"Passed opportunities, rubric, capacity, win rates",Ranked shortlist (max 8) with fit score and expected value,0 staff hrs,Capacity check against remaining hours
+5,Draft briefing notes,Weekly (automated),Tool,Automated,Top 3-5 shortlisted + relationship map,One-page briefs (L3_Briefing_Note),0 staff hrs,Dates marked confirmed / inferred; consent flags respected
+6,Fundraiser review,"Weekly (Tue, 60-90 min)",Foundations Officer,Human,Briefs + REVIEW queue,"Accept / reject / modify, with reason code",1-1.5 hrs,Human gate: nothing is pursued without this step
+7,Pursuit decision,Fortnightly (30 min),"Director, Philanthropy",Human,Accepted briefs + capacity,"PURSUE / QUEUE / CULTIVATE decisions, owner, due date",0.25 hrs/wk,Director owns capacity trade-offs and gift-acceptance escalations
+8,Log decisions,Weekly (automated + 5 min),Tool + Officer,Both,Step 6-7 outcomes,Decision log rows (L3_Decision_Log),0.1 hrs,Every rejection needs a reason code; this is the learning data
+9,Hand off to CRM,On pursue,Foundations Officer,Human,Pursued opportunities,Prospect record in donor database,0.1 hrs each,Tool never contacts funders
+10,Quarterly calibration,Quarterly (2 hrs),Director + Officer,Human,"Decision log, acceptance tests, source register","Updated weights, sources, assumptions; test pass rate",0.15 hrs/wk avg,Rerun L4 acceptance tests after any model or rubric change

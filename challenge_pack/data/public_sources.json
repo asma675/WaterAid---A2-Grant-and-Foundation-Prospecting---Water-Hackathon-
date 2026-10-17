@@ -1,0 +1,356 @@
+[
+  {
+    "id": "SRC-CWA-FUNDING",
+    "name": "Canada Water Agency — Funding opportunities",
+    "category": "Federal funding",
+    "url": "https://www.canada.ca/en/canada-water-agency/funding.html",
+    "access": "Public, free",
+    "use_for": "Current Canadian freshwater funding programs and application routes",
+    "refresh": "Weekly",
+    "tier": "1",
+    "tags": [
+      "Canada",
+      "freshwater",
+      "grants",
+      "domestic"
+    ],
+    "notes": "Primary hub for Canada Water Agency funding."
+  },
+  {
+    "id": "SRC-CWA-FEI",
+    "name": "Canada Water Agency — Freshwater Ecosystem Initiatives",
+    "category": "Federal funding",
+    "url": "https://www.canada.ca/en/canada-water-agency/funding/freshwater-ecosystem-initiatives.html",
+    "access": "Public, free",
+    "use_for": "Basin-specific freshwater programs across Canada",
+    "refresh": "Weekly",
+    "tier": "1",
+    "tags": [
+      "Canada",
+      "freshwater",
+      "watershed"
+    ],
+    "notes": "Great Lakes, Lake Winnipeg, Lake Simcoe, Lake of the Woods, Fraser, Mackenzie and other basins."
+  },
+  {
+    "id": "SRC-CWA-GL",
+    "name": "Canada Water Agency — Great Lakes funded projects",
+    "category": "Award history",
+    "url": "https://www.canada.ca/en/canada-water-agency/funding/funded-projects/great-lakes.html",
+    "access": "Public, free",
+    "use_for": "Who received Great Lakes funding, amounts and project themes",
+    "refresh": "Monthly",
+    "tier": "1",
+    "tags": [
+      "Ontario",
+      "Great Lakes",
+      "gift history"
+    ],
+    "notes": "Useful analogue to Grant Connect gift history using public government awards."
+  },
+  {
+    "id": "SRC-CWA-ECOACTION",
+    "name": "Canada Water Agency — EcoAction Stream 2",
+    "category": "Federal funding",
+    "url": "https://www.canada.ca/en/canada-water-agency/funding/ecoaction-community-program/stream2.html",
+    "access": "Public, free",
+    "use_for": "Freshwater sustainability and innovation calls across Canada",
+    "refresh": "Weekly",
+    "tier": "1",
+    "tags": [
+      "Canada",
+      "EcoAction",
+      "innovation"
+    ],
+    "notes": "Current call is closed; monitor next cycle."
+  },
+  {
+    "id": "SRC-CWA-ECOACTION-AWARDS",
+    "name": "Canada Water Agency — EcoAction funded projects",
+    "category": "Award history",
+    "url": "https://www.canada.ca/en/canada-water-agency/funding/funded-projects/funded-projects-ecoaction.html",
+    "access": "Public, free",
+    "use_for": "Historical EcoAction recipients, amounts and project patterns",
+    "refresh": "Monthly",
+    "tier": "1",
+    "tags": [
+      "Canada",
+      "EcoAction",
+      "gift history"
+    ],
+    "notes": "Public recipient history for peer tracing."
+  },
+  {
+    "id": "SRC-CWA-LAKESIMCOE-OV",
+    "name": "Canada Water Agency — Lake Simcoe overview",
+    "category": "Federal funding",
+    "url": "https://www.canada.ca/en/canada-water-agency/freshwater-ecosystem-initiatives/lake-simcoe/overview.html",
+    "access": "Public, free",
+    "use_for": "Current Lake Simcoe call status",
+    "refresh": "Daily while open",
+    "tier": "1",
+    "tags": [
+      "Ontario",
+      "Lake Simcoe",
+      "water quality"
+    ],
+    "notes": "Overview page reports a Nov. 26, 2026 deadline."
+  },
+  {
+    "id": "SRC-CWA-LAKESIMCOE-FUND",
+    "name": "Canada Water Agency — Lake Simcoe funding detail",
+    "category": "Federal funding",
+    "url": "https://www.canada.ca/en/canada-water-agency/funding/freshwater-ecosystem-initiatives/lake-simcoe.html",
+    "access": "Public, free",
+    "use_for": "Lake Simcoe eligibility and funding details",
+    "refresh": "Daily while open",
+    "tier": "1",
+    "tags": [
+      "Ontario",
+      "Lake Simcoe",
+      "water quality"
+    ],
+    "notes": "Funding detail page currently says the submission period is closed; conflict must be reviewed."
+  },
+  {
+    "id": "SRC-CWA-LOW-OV",
+    "name": "Canada Water Agency — Lake of the Woods overview",
+    "category": "Federal funding",
+    "url": "https://www.canada.ca/en/canada-water-agency/freshwater-ecosystem-initiatives/lake-of-the-woods/lake-of-the-woods-overview.html",
+    "access": "Public, free",
+    "use_for": "Current Lake of the Woods call status",
+    "refresh": "Daily while open",
+    "tier": "1",
+    "tags": [
+      "Ontario",
+      "Manitoba",
+      "Lake of the Woods"
+    ],
+    "notes": "Overview page reports a Nov. 26, 2026 deadline."
+  },
+  {
+    "id": "SRC-CWA-LOW-FUND",
+    "name": "Canada Water Agency — Lake of the Woods funding detail",
+    "category": "Federal funding",
+    "url": "https://www.canada.ca/en/canada-water-agency/funding/freshwater-ecosystem-initiatives/lake-of-the-woods.html",
+    "access": "Public, free",
+    "use_for": "Lake of the Woods eligibility and program details",
+    "refresh": "Daily while open",
+    "tier": "1",
+    "tags": [
+      "Ontario",
+      "Manitoba",
+      "algae"
+    ],
+    "notes": "Funding detail page says the submission period is closed; conflict must be reviewed."
+  },
+  {
+    "id": "SRC-CWA-LAKEWINNIPEG",
+    "name": "Canada Water Agency — Lake Winnipeg Freshwater Ecosystem Initiative",
+    "category": "Federal funding",
+    "url": "https://www.canada.ca/en/canada-water-agency/funding/freshwater-ecosystem-initiatives/lake-winnipeg.html",
+    "access": "Public, free",
+    "use_for": "Lake Winnipeg nutrient reduction and Indigenous-led stewardship funding",
+    "refresh": "Weekly",
+    "tier": "1",
+    "tags": [
+      "Manitoba",
+      "Lake Winnipeg",
+      "nutrients"
+    ],
+    "notes": "Monitor current and future calls."
+  },
+  {
+    "id": "SRC-CWA-FRASER",
+    "name": "Canada Water Agency — Fraser River Freshwater Ecosystem Initiative",
+    "category": "Federal funding",
+    "url": "https://www.canada.ca/en/canada-water-agency/funding/freshwater-ecosystem-initiatives/fraser-river.html",
+    "access": "Public, free",
+    "use_for": "Fraser River water quality opportunities and eligibility",
+    "refresh": "Weekly",
+    "tier": "1",
+    "tags": [
+      "British Columbia",
+      "Fraser River",
+      "water quality"
+    ],
+    "notes": "Current intake closed; useful cultivation/next-cycle source."
+  },
+  {
+    "id": "SRC-ECCC-EDF",
+    "name": "Environmental Damages Fund — available funds",
+    "category": "Federal funding",
+    "url": "https://www.canada.ca/en/environment-climate-change/services/environmental-funding/programs/environmental-damages-fund/available-funds.html",
+    "access": "Public, free",
+    "use_for": "Current geographically restricted environmental restoration funds",
+    "refresh": "Weekly",
+    "tier": "1",
+    "tags": [
+      "Canada",
+      "restoration",
+      "water quality"
+    ],
+    "notes": "Current Quebec water/fish-related funds close Dec. 1, 2026."
+  },
+  {
+    "id": "SRC-ECCC-EDF-APPLY",
+    "name": "Environmental Damages Fund — how to apply",
+    "category": "Eligibility",
+    "url": "https://www.canada.ca/en/environment-climate-change/services/environmental-funding/programs/environmental-damages-fund/how-to-apply.html",
+    "access": "Public, free",
+    "use_for": "Eligible applicants, project geography and application rules",
+    "refresh": "Quarterly",
+    "tier": "1",
+    "tags": [
+      "Canada",
+      "nonprofit",
+      "eligibility"
+    ],
+    "notes": "Projects must be undertaken within Canada; nonprofits and Indigenous organizations may be eligible."
+  },
+  {
+    "id": "SRC-ECCC-FUNDING",
+    "name": "Environment and Climate Change Canada — environmental funding programs",
+    "category": "Federal directory",
+    "url": "https://www.canada.ca/en/environment-climate-change/services/environmental-funding/programs.html",
+    "access": "Public, free",
+    "use_for": "Discovery of environmental grants relevant to Canadian freshwater",
+    "refresh": "Weekly",
+    "tier": "1",
+    "tags": [
+      "Canada",
+      "environment",
+      "funding directory"
+    ],
+    "notes": "Discovery hub; verify every program on its own first-party page."
+  },
+  {
+    "id": "SRC-ON-GLLAF",
+    "name": "Ontario — Great Lakes Local Action Fund",
+    "category": "Provincial funding",
+    "url": "https://www.ontario.ca/page/great-lakes-local-action-fund",
+    "access": "Public, free",
+    "use_for": "Ontario community projects protecting Great Lakes water quality and resilience",
+    "refresh": "Daily while open",
+    "tier": "1",
+    "tags": [
+      "Ontario",
+      "Great Lakes",
+      "community"
+    ],
+    "notes": "2026 call open; up to $100,000; deadline Nov. 6, 2026."
+  },
+  {
+    "id": "SRC-TD-FEF",
+    "name": "TD Friends of the Environment Foundation Grant",
+    "category": "Corporate foundation",
+    "url": "https://www.td.com/ca/en/about-td/community-giving/apply-for-funding/fef-grant",
+    "access": "Public, free",
+    "use_for": "Canadian environmental education, citizen science and green-space projects",
+    "refresh": "Monthly",
+    "tier": "1",
+    "tags": [
+      "Canada",
+      "corporate foundation",
+      "environment"
+    ],
+    "notes": "Only projects taking place in Canada; 2027 winter deadline Dec. 15, 2026; most grants $2,000–$8,000."
+  },
+  {
+    "id": "SRC-WSF",
+    "name": "Watershed Security Fund — Grants Program",
+    "category": "Independent fund",
+    "url": "https://watershedsecurityfund.ca/grants/",
+    "access": "Public, free",
+    "use_for": "British Columbia watershed security grants",
+    "refresh": "Daily while open",
+    "tier": "1",
+    "tags": [
+      "British Columbia",
+      "watersheds",
+      "First Nations"
+    ],
+    "notes": "Intake 4 open Oct. 5–Nov. 10, 2026; streams up to $50k, $150k and $400k."
+  },
+  {
+    "id": "SRC-WSF-AWARDS",
+    "name": "Watershed Security Fund — funded projects",
+    "category": "Award history",
+    "url": "https://watershedsecurityfund.ca/funded-projects/",
+    "access": "Public, free",
+    "use_for": "Recipient, amount, region and theme history for BC watershed grants",
+    "refresh": "Monthly",
+    "tier": "1",
+    "tags": [
+      "British Columbia",
+      "gift history",
+      "watershed"
+    ],
+    "notes": "Strong public analogue for historical giving analysis."
+  },
+  {
+    "id": "SRC-FCM-FUNDING",
+    "name": "Federation of Canadian Municipalities — Green Municipal Fund opportunities",
+    "category": "Municipal funding",
+    "url": "https://fcm.ca/en/funding",
+    "access": "Public, free",
+    "use_for": "Canadian municipal and community water pilots including stormwater and wastewater",
+    "refresh": "Monthly",
+    "tier": "1",
+    "tags": [
+      "Canada",
+      "municipal",
+      "stormwater",
+      "wastewater"
+    ],
+    "notes": "Filter by Water and project type; verify detailed eligibility before pursuit."
+  },
+  {
+    "id": "SRC-OPEN-GC",
+    "name": "Government of Canada — Grants and Contributions search",
+    "category": "Award history",
+    "url": "https://search.open.canada.ca/grants/",
+    "access": "Public, free",
+    "use_for": "Historical Canadian award records by program, recipient, amount and location",
+    "refresh": "Monthly",
+    "tier": "1",
+    "tags": [
+      "Canada",
+      "award history",
+      "open data"
+    ],
+    "notes": "Useful for peer tracing and grant-size calibration."
+  },
+  {
+    "id": "SRC-CWA-ONEWINDOW",
+    "name": "Canada Water Agency — Freshwater funding and partnership opportunities",
+    "category": "Federal directory",
+    "url": "https://www.canada.ca/en/canada-water-agency/water-one-window/freshwater-funding-partnership-opportunities.html",
+    "access": "Public, free",
+    "use_for": "Cross-government discovery of freshwater funding and partnerships",
+    "refresh": "Monthly",
+    "tier": "1",
+    "tags": [
+      "Canada",
+      "freshwater",
+      "directory"
+    ],
+    "notes": "Use as discovery; verify on program pages."
+  },
+  {
+    "id": "SRC-CWA-FUNDED",
+    "name": "Canada Water Agency — funded projects index",
+    "category": "Award history",
+    "url": "https://www.canada.ca/en/canada-water-agency/funding.html",
+    "access": "Public, free",
+    "use_for": "Navigate to funded project histories for Canada Water Agency programs",
+    "refresh": "Monthly",
+    "tier": "1",
+    "tags": [
+      "Canada",
+      "awards",
+      "peer tracing"
+    ],
+    "notes": "Supports evidence-backed prospecting."
+  }
+]

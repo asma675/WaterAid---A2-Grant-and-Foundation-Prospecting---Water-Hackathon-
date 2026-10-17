@@ -1,0 +1,10 @@
+# SYNTHETIC - FICTIONAL ORGANIZATION FOR THE WATER CHALLENGE - NOT WATERAID DATA
+rank_id,funder_id,summary,theme,country,application_type,likely_grant_cad,relationship,deadline,C1,C2,C3,C4,C5,C6,C7
+K1,F049,"Clinic water and infection-prevention upgrades, Malawi. Short application.",WASH-HCF,Malawi,Short application,90000,Cold,2026-11-20,5,5,3,2,3,4,3
+K2,F050,"Drought-resilient water supply, Ethiopia. Two-page LOI; invitations follow in 6 weeks.",WASH-CLIM,Ethiopia,LOI,250000,Warm,2026-11-30,5,5,4,4,4,5,4
+K3,F051,"District water-systems strengthening, Mozambique. Full proposal, 3 years.",WASH-SYS,Mozambique,Full proposal,400000,Cold,2026-12-10,5,5,5,2,3,2,5
+K4,F052,"Hygiene kits and promotion, any country. Corporate proposal, co-branding.",WASH-HYG,Multi-country,Corporate proposal,40000,Cold,Rolling,3,3,1,2,2,4,2
+K5,F053,"Girls' school toilets, Nepal. Short application. Major donor knows the founder.",WASH-SCH,Nepal,Short application,30000,Warm,2026-11-15,3,5,1,4,3,4,3
+K6,F054,Women's leadership in water committees. LOI.,WASH-GEN,Malawi,LOI,100000,Cold,2027-01-30,4,3,2,2,2,5,3
+K7,F055,"Faecal sludge management, Bangladesh (co-funding only).",WASH-SAN,Bangladesh,Short application,60000,Cold,2026-12-01,3,1,2,2,3,4,3
+K8,F056,Canadian youth global-citizenship workshops. LOI. Existing funder.,ENG-CAN,Canada,LOI,25000,Active,2026-12-05,2,1,1,5,4,4,3

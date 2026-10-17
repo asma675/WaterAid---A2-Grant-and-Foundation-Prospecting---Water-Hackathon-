@@ -1,0 +1,11 @@
+# SYNTHETIC - FICTIONAL ORGANIZATION FOR THE WATER CHALLENGE - NOT WATERAID DATA
+theme_code,label,tier,description
+WASH-HCF,WASH in healthcare facilities,Core,"Water, sanitation, hygiene, cleaning and waste services in clinics and birthing centres; maternal and newborn health."
+WASH-CLIM,Climate-resilient water services,Core,"Climate-risk assessment, drought/flood-resilient sources, water-security planning, adaptation finance."
+WASH-GEN,Gender-transformative WASH,Core,"Women's leadership, menstrual health, safety and dignity in sanitation."
+WASH-SYS,District WASH systems strengthening,Core,"Local government, utilities, service-delivery models, monitoring, O&M financing."
+WASH-SCH,WASH in schools,Secondary,"Water, toilets, handwashing and menstrual-health facilities in schools."
+WASH-HYG,Hygiene behaviour change,Secondary,Handwashing and hygiene promotion linked to services.
+WASH-SAN,Sanitation services,Secondary,Household and public sanitation services and faecal sludge management.
+POL-CAN,Canadian policy and advocacy,Secondary,Public policy dialogue and research in Canada (permitted charitable activity).
+ENG-CAN,Canadian public engagement,Secondary,Global citizenship education and public engagement in Canada.

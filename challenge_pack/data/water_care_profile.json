@@ -1,0 +1,642 @@
+{
+  "_notice": "SYNTHETIC - FICTIONAL ORGANIZATION FOR THE WATER CHALLENGE - NOT WATERAID DATA",
+  "as_of": "2026-10-19",
+  "organization": {
+    "legal_name": "Water Care Canada",
+    "operating_name": "Water Care",
+    "federation": "Member of Water Care International, a fictional alliance that runs country programs; Water Care Canada raises and grants funds to them",
+    "vision": "Communities that can count on water, toilets and hygiene services long after any project ends.",
+    "mission": "Make safe water, sanitation and hygiene permanent: services that last, systems that hold, and women and girls leading the decisions.",
+    "values": {
+      "Durability": "We judge success by what still works in ten years.",
+      "Local leadership": "District governments and local partners lead; we strengthen.",
+      "Candour": "We report what failed as clearly as what worked.",
+      "Thrift": "Every dollar and every staff hour goes where it changes most."
+    },
+    "strategy_name": "Strategy 2023-2033: Built to Last",
+    "ambition": "1.5 million people with lasting water, sanitation and hygiene services in Water Care focus districts by 2033."
+  },
+  "goals": [
+    {
+      "id": "G1",
+      "name": "Services that last",
+      "description": "District water, sanitation and hygiene systems that keep working: local government and utilities, health facilities, and climate-resilient water sources.",
+      "priorities": [
+        "Health-facility WASH in every focus district",
+        "Climate-risk assessment in every project design",
+        "Maintenance financing agreed before anything is built"
+      ]
+    },
+    {
+      "id": "G2",
+      "name": "Women and girls decide",
+      "description": "Gender-transformative programming: women in leadership roles on water committees and in utilities; menstrual health in schools and clinics.",
+      "priorities": [
+        "Women hold at least 40% of water-committee leadership roles",
+        "Partnerships with women's rights organizations"
+      ]
+    },
+    {
+      "id": "G3",
+      "name": "Canada invests",
+      "description": "More and better Canadian money for lasting WASH: institutional fundraising, public engagement, and policy work with the Government of Canada.",
+      "priorities": [
+        "Foundations from 14% to 20% of income by FY2029-30",
+        "Multi-year and unrestricted funding prioritized",
+        "Evidence-based policy engagement in Canada"
+      ]
+    }
+  ],
+  "lenses": {
+    "Gender-transformative": "Every project must show how it shifts decision-making power toward women and girls.",
+    "Climate-resilient": "Every project must show how services will survive floods, droughts and rising demand."
+  },
+  "countries": [
+    {
+      "iso2": "MW",
+      "name": "Malawi",
+      "tier": "Priority",
+      "region": "Sub-Saharan Africa (Southern)",
+      "note": "3 focus districts; health-facility WASH, menstrual health in schools",
+      "active_since": 2008
+    },
+    {
+      "iso2": "MZ",
+      "name": "Mozambique",
+      "tier": "Priority",
+      "region": "Sub-Saharan Africa (Southern)",
+      "note": "2 focus districts in Inhambane Province; climate-resilient rural water after cyclone damage",
+      "active_since": 2011
+    },
+    {
+      "iso2": "ET",
+      "name": "Ethiopia",
+      "tier": "Priority",
+      "region": "Sub-Saharan Africa (East)",
+      "note": "2 focus woredas; drought-resilient water supply, small-town utilities",
+      "active_since": 2010
+    },
+    {
+      "iso2": "NP",
+      "name": "Nepal",
+      "tier": "Priority",
+      "region": "South Asia",
+      "note": "2 focus municipalities; spring-source protection, WASH in birthing centres",
+      "active_since": 2014
+    },
+    {
+      "iso2": "ZM",
+      "name": "Zambia",
+      "tier": "Secondary",
+      "region": "Sub-Saharan Africa (Southern)",
+      "note": "Federation program; Water Care Canada co-funds only, no Canadian-led projects",
+      "active_since": 2019
+    },
+    {
+      "iso2": "BD",
+      "name": "Bangladesh",
+      "tier": "Secondary",
+      "region": "South Asia",
+      "note": "Federation program; climate-vulnerable coastal areas; co-funding only",
+      "active_since": 2020
+    }
+  ],
+  "themes": [
+    {
+      "code": "WASH-HCF",
+      "label": "WASH in healthcare facilities",
+      "tier": "Core",
+      "description": "Water, sanitation, hygiene, cleaning and waste services in clinics and birthing centres; maternal and newborn health."
+    },
+    {
+      "code": "WASH-CLIM",
+      "label": "Climate-resilient water services",
+      "tier": "Core",
+      "description": "Climate-risk assessment, drought/flood-resilient sources, water-security planning, adaptation finance."
+    },
+    {
+      "code": "WASH-GEN",
+      "label": "Gender-transformative WASH",
+      "tier": "Core",
+      "description": "Women's leadership, menstrual health, safety and dignity in sanitation."
+    },
+    {
+      "code": "WASH-SYS",
+      "label": "District WASH systems strengthening",
+      "tier": "Core",
+      "description": "Local government, utilities, service-delivery models, monitoring, O&M financing."
+    },
+    {
+      "code": "WASH-SCH",
+      "label": "WASH in schools",
+      "tier": "Secondary",
+      "description": "Water, toilets, handwashing and menstrual-health facilities in schools."
+    },
+    {
+      "code": "WASH-HYG",
+      "label": "Hygiene behaviour change",
+      "tier": "Secondary",
+      "description": "Handwashing and hygiene promotion linked to services."
+    },
+    {
+      "code": "WASH-SAN",
+      "label": "Sanitation services",
+      "tier": "Secondary",
+      "description": "Household and public sanitation services and faecal sludge management."
+    },
+    {
+      "code": "POL-CAN",
+      "label": "Canadian policy and advocacy",
+      "tier": "Secondary",
+      "description": "Public policy dialogue and research in Canada (permitted charitable activity)."
+    },
+    {
+      "code": "ENG-CAN",
+      "label": "Canadian public engagement",
+      "tier": "Secondary",
+      "description": "Global citizenship education and public engagement in Canada."
+    }
+  ],
+  "exclusions": [
+    {
+      "code": "EX-HUM",
+      "label": "Acute humanitarian / emergency first response",
+      "rule": "Water Care does not run emergency response; recovery-phase work only, through federation programs."
+    },
+    {
+      "code": "EX-DOM",
+      "label": "Domestic Canadian programs (including First Nations drinking water)",
+      "rule": "No programs in Canada. Canadian activity is limited to engagement and policy work."
+    },
+    {
+      "code": "EX-CAP",
+      "label": "Capital-only infrastructure without an O&M plan",
+      "rule": "Water Care will not build what no one is funded to maintain."
+    },
+    {
+      "code": "EX-IND",
+      "label": "Grants or scholarships to individuals",
+      "rule": "Not part of the delivery model."
+    },
+    {
+      "code": "EX-RES",
+      "label": "Stand-alone academic research",
+      "rule": "Only as an implementing partner on applied research."
+    }
+  ],
+  "finance": {
+    "fiscal_year_end": "March 31",
+    "latest_fy": "FY2025-26",
+    "revenue_cad": 5400000,
+    "revenue_band": "$5M-$10M",
+    "mix": [
+      [
+        "Individual giving",
+        0.46
+      ],
+      [
+        "Government (federal international assistance)",
+        0.27
+      ],
+      [
+        "Foundations",
+        0.14
+      ],
+      [
+        "Corporate",
+        0.08
+      ],
+      [
+        "Other (events, investment)",
+        0.05
+      ]
+    ],
+    "spend": [
+      [
+        "Programs",
+        0.78
+      ],
+      [
+        "Fundraising",
+        0.14
+      ],
+      [
+        "Administration",
+        0.08
+      ]
+    ],
+    "audited": "Yes; clean audit opinions FY2023-24 to FY2025-26",
+    "indirect_rate_standard": 0.12,
+    "unrestricted_match_capacity": 0.2,
+    "max_new_restricted_per_year_cad": 2500000
+  },
+  "gift_acceptance": {
+    "excluded": [
+      "Tobacco",
+      "Weapons and arms",
+      "Gambling",
+      "Companies with active WASH-related human-rights litigation"
+    ],
+    "review": [
+      "Bottled water and beverage companies",
+      "Extractives: mining, oil and gas",
+      "Agro-chemicals"
+    ],
+    "process": "Review-category gifts go to the CEO with a one-page risk note; decision within 10 business days."
+  },
+  "eligibility_passport": {
+    "legal_status": {
+      "id": "EP-01",
+      "label": "Legal status",
+      "value": "Registered charity (Canada)",
+      "match_rule": "Funder must accept registered charities.",
+      "data_class": "Public"
+    },
+    "qualified_donee": {
+      "id": "EP-02",
+      "label": "Qualified donee",
+      "value": "Yes",
+      "match_rule": "Private and public foundations in Canada can generally grant only to qualified donees. Passes this gate.",
+      "data_class": "Public"
+    },
+    "cra_designation": {
+      "id": "EP-03",
+      "label": "CRA designation",
+      "value": "Charitable organization",
+      "match_rule": "Some funders exclude public/private foundations as applicants. Water Care is not a foundation.",
+      "data_class": "Public"
+    },
+    "business_number": {
+      "id": "EP-04",
+      "label": "Charitable registration #",
+      "value": "000000000 RR0001 (SYNTHETIC)",
+      "match_rule": "Placeholder only. Never treat as real.",
+      "data_class": "Public"
+    },
+    "incorporation": {
+      "id": "EP-05",
+      "label": "Incorporation",
+      "value": "Federal, Canada Not-for-profit Corporations Act, 2003",
+      "match_rule": "Federal incorporation satisfies 'Canadian-incorporated' requirements.",
+      "data_class": "Internal"
+    },
+    "years_registered": {
+      "id": "EP-06",
+      "label": "Years registered",
+      "value": "22 (since 2004)",
+      "match_rule": "Passes minimum operating-history rules up to 22 years.",
+      "data_class": "Public"
+    },
+    "hq": {
+      "id": "EP-07",
+      "label": "Head office",
+      "value": "Toronto, Ontario",
+      "match_rule": "Passes Ontario- and GTA-restricted funders ONLY when the funder allows international beneficiaries.",
+      "data_class": "Public"
+    },
+    "staff_provinces": {
+      "id": "EP-08",
+      "label": "Provinces with staff",
+      "value": "Ontario (22 FTE), British Columbia (2 FTE remote)",
+      "match_rule": "No Quebec presence. Fails funders requiring a Quebec office.",
+      "data_class": "Internal"
+    },
+    "revenue_cad": {
+      "id": "EP-09",
+      "label": "Annual revenue (FY2025-26)",
+      "value": "$5,400,000 CAD",
+      "match_rule": "Fails revenue caps below $5.4M (e.g., 'organizations under $2M').",
+      "data_class": "Public"
+    },
+    "audited": {
+      "id": "EP-10",
+      "label": "Audited financial statements",
+      "value": "Yes, last 3 years",
+      "match_rule": "Passes audit requirements.",
+      "data_class": "Internal"
+    },
+    "fye": {
+      "id": "EP-11",
+      "label": "Fiscal year end",
+      "value": "March 31",
+      "match_rule": "Align reporting cycles.",
+      "data_class": "Public"
+    },
+    "delivery_model": {
+      "id": "EP-12",
+      "label": "Delivery model",
+      "value": "International programs delivered through Water Care International country programs and local partners, via grant agreements with accountability measures (qualifying disbursements) or direct-and-control arrangements",
+      "match_rule": "Fails funders that fund only local in-country CSOs directly. Passes funders that fund Canadian charities working internationally.",
+      "data_class": "Internal"
+    },
+    "domestic_programs": {
+      "id": "EP-13",
+      "label": "Programs in Canada",
+      "value": "No (engagement and policy only)",
+      "match_rule": "Fails 'Canadian beneficiaries only' funders.",
+      "data_class": "Internal"
+    },
+    "countries_priority": {
+      "id": "EP-14",
+      "label": "Priority countries",
+      "value": "Malawi, Mozambique, Ethiopia, Nepal",
+      "match_rule": "Geographic match: strongest.",
+      "data_class": "Internal"
+    },
+    "countries_secondary": {
+      "id": "EP-15",
+      "label": "Secondary countries",
+      "value": "Zambia, Bangladesh (co-funding only)",
+      "match_rule": "Geographic match: partial; cannot lead.",
+      "data_class": "Internal"
+    },
+    "regions": {
+      "id": "EP-16",
+      "label": "Regions",
+      "value": "Southern Africa, East Africa, South Asia",
+      "match_rule": "Fails region-restricted funders outside these (e.g., West Africa only, Latin America).",
+      "data_class": "Internal"
+    },
+    "themes_core": {
+      "id": "EP-17",
+      "label": "Core themes",
+      "value": "WASH-HCF, WASH-CLIM, WASH-GEN, WASH-SYS",
+      "match_rule": "Highest fit.",
+      "data_class": "Internal"
+    },
+    "themes_secondary": {
+      "id": "EP-18",
+      "label": "Secondary themes",
+      "value": "WASH-SCH, WASH-HYG, WASH-SAN, POL-CAN, ENG-CAN",
+      "match_rule": "Moderate fit.",
+      "data_class": "Internal"
+    },
+    "themes_excluded": {
+      "id": "EP-19",
+      "label": "Will not do",
+      "value": "Emergency first response; domestic Canadian programs; capital-only works; grants to individuals; stand-alone research",
+      "match_rule": "Hard decline.",
+      "data_class": "Internal"
+    },
+    "populations": {
+      "id": "EP-20",
+      "label": "Populations",
+      "value": "Women and girls; People with disabilities; Rural and peri-urban low-income communities; Healthcare workers and patients (maternal and newborn care); School-age children",
+      "match_rule": "Match to funder population focus.",
+      "data_class": "Internal"
+    },
+    "sdgs": {
+      "id": "EP-21",
+      "label": "SDGs",
+      "value": "Primary SDG 6; secondary SDG 3, 5, 13",
+      "match_rule": "Match to funder SDG framing.",
+      "data_class": "Internal"
+    },
+    "languages": {
+      "id": "EP-22",
+      "label": "Application languages",
+      "value": "English: full capacity. French: summaries only (1 staff member)",
+      "match_rule": "Fails funders requiring full French applications.",
+      "data_class": "Internal"
+    },
+    "indigenous_led": {
+      "id": "EP-23",
+      "label": "Indigenous-led organization",
+      "value": "No",
+      "match_rule": "Fails Indigenous-led-only funders.",
+      "data_class": "Internal"
+    },
+    "women_led": {
+      "id": "EP-24",
+      "label": "Women-led organization",
+      "value": "CEO is a woman; 7 of 12 directors are women; Board Chair is a man",
+      "match_rule": "AMBIGUOUS: passes 'woman CEO' or 'majority-women board' definitions; fails 'woman Board Chair' or '75%+ women' definitions. Flag for human review.",
+      "data_class": "Internal"
+    },
+    "policies": {
+      "id": "EP-25",
+      "label": "Policies in place",
+      "value": "Safeguarding; gender equality; anti-fraud and corruption; sanctions/anti-terrorism screening; environmental and social safeguards; privacy; whistleblower",
+      "match_rule": "Passes standard due-diligence checklists.",
+      "data_class": "Internal"
+    },
+    "grant_min_viable": {
+      "id": "EP-26",
+      "label": "Minimum viable grant",
+      "value": "$15,000 CAD",
+      "match_rule": "Below this, decline unless a strategic relationship justifies it.",
+      "data_class": "Internal"
+    },
+    "grant_sweet_spot": {
+      "id": "EP-27",
+      "label": "Grant sweet spot",
+      "value": "$50,000-$500,000 CAD per year",
+      "match_rule": "Best yield per hour of effort.",
+      "data_class": "Internal"
+    },
+    "max_new_restricted": {
+      "id": "EP-28",
+      "label": "Max new restricted funding per year",
+      "value": "$2,500,000 CAD",
+      "match_rule": "Program absorptive capacity; larger awards need a consortium.",
+      "data_class": "Internal"
+    },
+    "match_capacity": {
+      "id": "EP-29",
+      "label": "Cash match capacity",
+      "value": "Up to 20% of project value from unrestricted funds",
+      "match_rule": "Fails 1:1 match requirements unless a co-funder is secured.",
+      "data_class": "Internal"
+    },
+    "indirect_rate": {
+      "id": "EP-30",
+      "label": "Standard indirect cost rate",
+      "value": "12%",
+      "match_rule": "Funders capping indirect costs below 10% reduce net value (soft penalty, not a gate).",
+      "data_class": "Internal"
+    },
+    "multi_year": {
+      "id": "EP-31",
+      "label": "Accepts multi-year funding",
+      "value": "Yes (preferred)",
+      "match_rule": "Positive signal.",
+      "data_class": "Internal"
+    },
+    "reporting": {
+      "id": "EP-32",
+      "label": "Reporting capacity",
+      "value": "Quarterly or semi-annual narrative + financial is standard; monthly reporting is high burden",
+      "match_rule": "Soft penalty for monthly reporting.",
+      "data_class": "Internal"
+    },
+    "gift_excluded": {
+      "id": "EP-33",
+      "label": "Gift acceptance: excluded sources",
+      "value": "Tobacco; weapons; gambling; companies with active WASH-related human-rights litigation",
+      "match_rule": "Hard decline.",
+      "data_class": "Internal"
+    },
+    "gift_review": {
+      "id": "EP-34",
+      "label": "Gift acceptance: CEO review required",
+      "value": "Bottled water and beverage companies; extractives (mining, oil and gas); agro-chemicals",
+      "match_rule": "Route to REVIEW, never auto-pursue.",
+      "data_class": "Internal"
+    },
+    "us_status": {
+      "id": "EP-35",
+      "label": "US tax status",
+      "value": "None (no US 501(c)(3) affiliate; no equivalency determination on file)",
+      "match_rule": "US private foundations need an equivalency determination or expenditure responsibility. Flag as uncertain.",
+      "data_class": "Internal"
+    },
+    "federal_track_record": {
+      "id": "EP-36",
+      "label": "Federal international assistance track record",
+      "value": "2 completed federal contribution agreements since 2018",
+      "match_rule": "Positive signal for government calls.",
+      "data_class": "Internal"
+    }
+  },
+  "fit_rubric": {
+    "gates": [
+      {
+        "id": "G1",
+        "name": "Legal eligibility",
+        "test": "Funder accepts registered Canadian charities / qualified donees (EP-01, EP-02, EP-03, EP-35)."
+      },
+      {
+        "id": "G2",
+        "name": "Beneficiary geography",
+        "test": "International work allowed AND at least one Water Care country or region eligible (EP-13 to EP-16)."
+      },
+      {
+        "id": "G3",
+        "name": "Thematic eligibility",
+        "test": "WASH or a core-adjacent theme (health, climate, gender) is fundable; not an excluded theme (EP-17 to EP-19)."
+      },
+      {
+        "id": "G4",
+        "name": "Organizational restrictions",
+        "test": "Revenue caps, Indigenous-led, women-led, grassroots, provincial presence, language (EP-08, EP-09, EP-22 to EP-24)."
+      },
+      {
+        "id": "G5",
+        "name": "Gift acceptance",
+        "test": "Source is not excluded; review-category sources route to REVIEW (EP-33, EP-34)."
+      },
+      {
+        "id": "G6",
+        "name": "Access",
+        "test": "Open call, LOI, rolling, or invitation with a credible relationship path."
+      },
+      {
+        "id": "G7",
+        "name": "Timeline feasibility",
+        "test": "Days to deadline at or above the minimum preparation days for the application type, with hours available."
+      },
+      {
+        "id": "G8",
+        "name": "Financial terms",
+        "test": "Match requirement within 20% capacity, or a co-funder identified (EP-29)."
+      }
+    ],
+    "criteria": [
+      {
+        "id": "C1",
+        "name": "Strategic alignment",
+        "weight": 0.25,
+        "anchors": "5 = core theme is the funder's stated priority; 3 = secondary theme or WASH as an eligible activity under health/climate/gender; 1 = loose link."
+      },
+      {
+        "id": "C2",
+        "name": "Geographic alignment",
+        "weight": 0.15,
+        "anchors": "5 = priority country named; 4 = region-open including a priority country; 3 = global; 2 = secondary country only."
+      },
+      {
+        "id": "C3",
+        "name": "Economic yield",
+        "weight": 0.2,
+        "anchors": "Expected value per fundraising hour (Capacity_Model, includes LOI follow-on effort): 5 = above $3,000; 4 = $1,500-3,000; 3 = $750-1,500; 2 = $300-750; 1 = below $300."
+      },
+      {
+        "id": "C4",
+        "name": "Relationship strength",
+        "weight": 0.15,
+        "anchors": "5 = active funder; 4 = warm (board or staff connection with consent); 3 = lapsed in good standing; 2 = cold; 1 = lapsed with issues."
+      },
+      {
+        "id": "C5",
+        "name": "Win signals",
+        "weight": 0.1,
+        "anchors": "5 = funds peer international WASH charities; 3 = funds international development generally; 1 = no international giving history."
+      },
+      {
+        "id": "C6",
+        "name": "Timeline & burden",
+        "weight": 0.1,
+        "anchors": "5 = comfortable timeline, light reporting; 3 = tight or quarterly reporting; 1 = monthly reporting or very tight."
+      },
+      {
+        "id": "C7",
+        "name": "Strategic value",
+        "weight": 0.05,
+        "anchors": "5 = multi-year, unrestricted or policy access; 3 = standard restricted; 1 = restricted and one-off."
+      }
+    ],
+    "thresholds": {
+      "PURSUE": 3.5,
+      "MONITOR": 2.8
+    },
+    "decisions": {
+      "PURSUE": "Eligible, fit score at or above 3.5, and capacity available this quarter.",
+      "PURSUE-QUEUE": "Eligible with strong fit, but this quarter's capacity is used up; schedule for next window.",
+      "CULTIVATE": "Not applicable now (invitation-only, relationship needs repair, no open call) but worth building toward.",
+      "REVIEW": "A human decision is required: gift acceptance, ambiguous eligibility, or conflicting/unverified facts.",
+      "MONITOR": "Eligible but moderate fit (2.8-3.49) or no confirmed deadline; recheck next cycle.",
+      "DECLINE": "Fails a hard gate or fit score below 2.8."
+    }
+  },
+  "capacity": {
+    "app_types": [
+      {
+        "type": "LOI",
+        "fundraising_hrs": 8,
+        "program_hrs": 0,
+        "min_prep_days": 7
+      },
+      {
+        "type": "Short application",
+        "fundraising_hrs": 24,
+        "program_hrs": 6,
+        "min_prep_days": 14
+      },
+      {
+        "type": "Full proposal",
+        "fundraising_hrs": 60,
+        "program_hrs": 20,
+        "min_prep_days": 30
+      },
+      {
+        "type": "Corporate proposal",
+        "fundraising_hrs": 40,
+        "program_hrs": 8,
+        "min_prep_days": 21
+      },
+      {
+        "type": "Government call",
+        "fundraising_hrs": 220,
+        "program_hrs": 80,
+        "min_prep_days": 45
+      },
+      {
+        "type": "Renewal",
+        "fundraising_hrs": 30,
+        "program_hrs": 8,
+        "min_prep_days": 21
+      }
+    ],
+    "committed_hours_this_quarter": 285
+  }
+}

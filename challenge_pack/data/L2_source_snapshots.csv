@@ -1,0 +1,10 @@
+# SYNTHETIC - FICTIONAL ORGANIZATION FOR THE WATER CHALLENGE - NOT WATERAID DATA
+snapshot_id,funder_id,url,captured,text,change_flag
+SN-01,F003,https://grantsdirectory.example/funder/corvane,2025-06-14,"Corvane Foundation. Climate adaptation, global. Grants $100,000-$750,000. Annual call, spring.",baseline
+SN-02,F003,https://corvane.example/news/a-new-chapter,2026-03-04,"New CEO: from the 2027 call, Corvane will fund climate adaptation in Canadian communities only.",CHANGED: geography (global to Canada-only)
+SN-03,F014,https://ostranderfdn.example/grants,2026-10-11,Our current grant programs: Canadian Arts Access; Ontario Youth Mental Health.,unchanged since 2024
+SN-04,F014,https://ostranderfdn.example/reports/annual-2025.pdf,2026-10-11,"New Global Health Systems envelope, $3M/yr; LOIs Nov 1 - Dec 12, 2026.",NEW: program not on website
+SN-05,F012,https://rivermarkgroup.example/news/resilient-futures-launch,2026-09-22,"Apply by November 15, 2026.",baseline
+SN-06,F012,https://rivermarkfoundation.example/resilient-futures,2026-10-13,"Applications close December 1, 2026.",CONFLICT: deadline differs from SN-05
+SN-07,F024,https://elmsworth.example/apply,2025-05-20,The application deadline is September 30.,baseline
+SN-08,F024,https://elmsworth.example/apply,2026-10-14,The application deadline is September 30. [Last updated May 2025],STALE: no update in 17 months

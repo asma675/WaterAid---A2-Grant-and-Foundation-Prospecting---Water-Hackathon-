@@ -1,0 +1,58 @@
+# SYNTHETIC - FICTIONAL ORGANIZATION FOR THE WATER CHALLENGE - NOT WATERAID DATA
+funder_id,funder_name,funder_type,hq,international_allowed,beneficiary_geography,themes_funded,typical_grant_min_cad,typical_grant_max_cad,access_model,cycle,applicant_restrictions,reporting,relationship_status,notes
+F001,Ashgrove Family Foundation,Private family foundation,ON,Yes,Global; prefers Africa,Global health; water; girls' education,25000,150000,LOI then invitation,LOIs Feb 15 and Sep 15,Registered charities only,Annual,Warm,Board director R. Okonkwo-Hale is a former trustee (consent: yes).
+F002,Ashgrove Foundation,Private family foundation,ON,Yes,Global,Health; water,25000,150000,LOI then invitation,Twice yearly,Registered charities only,Annual,Unknown,Imported from a third-party grants list.
+F003,Corvane Foundation,Private foundation,BC,Yes,Global,Climate adaptation,100000,750000,Open call,Annual (spring),Registered charities,Semi-annual,Cold,Record last updated June 2025.
+F004,Maplehurst Community Foundation,Community foundation,ON,No,"Maplehurst Region, Ontario only",Local community well-being,5000,40000,Open call,Quarterly,Must serve Maplehurst Region residents,Final report,None,
+F005,Fondation Quillon,Private foundation,QC,Yes,Francophone Africa and Haiti,Women and girls; health,50000,250000,Open call,Annual (Nov),Quebec office required; application in French,Annual,None,
+F006,Tessaly Health Trust,Private foundation,ON,Yes,"Sub-Saharan Africa, South Asia",Maternal and newborn health systems,200000,1000000,Invitation only,"Board invites (Mar, Sep)",Invited organizations only,Semi-annual,Warm,Board director P. Varga-Lindqvist sits on Tessaly's advisory council (consent: yes).
+F007,Brenmoor Mining Ltd. - Community Investment,Corporate giving program,AB,Restricted,"Communities near Brenmoor operations (Alberta; Copperbelt, Zambia; Tete, Mozambique)","Water, health, education near operations",25000,300000,Open call,Rolling,Projects must be within 50 km of a Brenmoor site,Quarterly,None,
+F008,Halvard Capital Giving Fund,Corporate giving program,ON,Yes,Global,Employee-nominated causes,2500,10000,Employee nomination,Rolling,Must be nominated by an employee,Short form,None,
+F009,Northlight Pooled Fund for Grassroots Water,Pooled fund,International,Yes,Sub-Saharan Africa,Community-led water,10000,60000,Open call,Annual (Dec),Locally registered community-based organizations only; INGOs and their affiliates ineligible,Annual,None,
+F010,Fenwick-Orr Foundation,Private foundation,ON,Yes,Global,International development; health,20000,100000,Open call,Annual (Jan),"Applicant annual revenue under $2,000,000",Annual,None,Water Care applied in FY2022-23 and was ruled ineligible.
+F011,Kestrel Bay Foundation,Private foundation,NS,Yes,Global Indigenous communities,Indigenous-led water and land stewardship,25000,200000,Open call,Annual (Feb),Indigenous-led organizations only,Annual,None,
+F012,Rivermark Insurance Group Foundation,Corporate foundation,ON,Yes,Global,Climate resilience; disaster risk reduction,100000,300000,Open call,Annual,Registered charities,Semi-annual,Cold,
+F013,Galloway Sisters Fund,Public foundation,ON,Yes,Global,Women's leadership,30000,120000,Open call,Annual,Women-led organizations (see definition),Annual,None,
+F014,Ostrander Foundation,Private foundation,ON,Unknown,Ontario,Arts access; youth mental health,20000,100000,Open call,Annual,Registered charities,Annual,Cold,Record last updated 2024 from the funder website.
+F015,Canadian Fund for Climate-Resilient Communities,Government program (fictional),Federal,Yes,Eligible ODA countries,Climate adaptation; water security; gender,1000000,5000000,Government call,"Call closes Nov 9, 2026",Canadian organizations with federal track record,Quarterly + audit,None,Synthetic federal program; not a real Government of Canada fund.
+F016,Wexley Family Foundation,Private family foundation,ON,Yes,Southern and East Africa,Schools; girls' education; WASH in schools,40000,90000,Rolling,Rolling; decisions within 8 weeks,Registered charities,Annual,Cold,
+F017,Harrowgate Foundation,Private foundation,BC,Yes,"West Africa only (Ghana, Senegal, Sierra Leone)",Water and sanitation,50000,250000,Open call,Annual (Dec),Registered charities,Annual,None,
+F018,Cindermoor Relief Foundation,Private foundation,ON,Yes,Global,Emergency humanitarian response only,25000,200000,Rapid response,"Rolling, within 30 days of a declared emergency",Organizations with active emergency operations,Final report,None,
+F019,Pellworth Foundation,US private foundation,"New York, USA",Yes,Global,Water and sanitation; health,50000,300000,Open call,Annual (Jan 31),"US 501(c)(3) public charities, or foreign organizations with an equivalency determination",Annual,None,
+F020,Linden & Crane Foundation,Private foundation,ON,Yes,Global,Health equity,75000,200000,Open call,Annual (Dec 5),Indirect costs capped at 5%,Annual,None,
+F021,Sorrel Ridge Foundation,Private foundation,ON,Yes,Africa,Water infrastructure,250000,500000,Open call,Annual (Jan 15),1:1 cash match required,Semi-annual,None,
+F022,Dunmore Family Trust,Private family foundation,ON,Yes,Global,Health; water,30000,80000,Invitation after relationship,Rolling,Prior grantees by invitation,Annual,Lapsed,Funded Water Care FY2021-22 and FY2022-23; FY2022-23 final report submitted 4 months late.
+F023,Thornbury Foundation,Private foundation,ON,Yes,Global,Gender equality; health,50000,150000,Open call,'Typically opens in spring',Registered charities,Annual,None,
+F024,Elmsworth Foundation,Private foundation,ON,Yes,Global,Water; climate,40000,120000,Open call,Deadline 'September 30' (year not stated),Registered charities,Annual,None,
+F025,Bellcourt Bank Foundation,Corporate foundation,ON,No,Canada only,"Community, youth, financial literacy",10000,100000,Open call,Annual,Canadian beneficiaries only,Annual,None,Water Care applied in FY2021-22: ineligible.
+F026,Caldera Beverage Co. Giving,Corporate giving program,ON,Yes,Global,Water access,50000,250000,Corporate proposal,Rolling,Co-branding required,Quarterly,None,
+F027,Westvale Credit Union Community Fund,Corporate giving program,ON,No,Westvale branch communities only,Local community,2000,15000,Open call,Twice yearly,Local beneficiaries only,Short form,None,Water Care applied in FY2021-22: ineligible.
+F028,Arden Global Health Fund,Public foundation,ON,Yes,"Sub-Saharan Africa, South Asia",Global health; WASH in health facilities,100000,400000,Invited renewal,Annual,Registered charities,Semi-annual,Active,Water Care's largest foundation funder.
+F029,Harbourline Foundation,Private foundation,ON,Yes,Southern Africa,WASH in schools,60000,200000,Invited renewal,Annual,Registered charities,Annual,Active,Multi-year funder since FY2022-23.
+F030,Mirelle Foundation,Private foundation,BC,Yes,Global,Gender equality; menstrual health,50000,250000,LOI then invitation,LOIs Jun; proposals Nov,Registered charities,Annual,Warm,"Invited full proposal due Nov 14, 2026."
+F031,Pinecrest Family Foundation,Private family foundation,ON,Yes,Global,International development,15000,40000,Open call,Annual (Apr),Registered charities,Short form,Active,
+F032,Granville Tide Foundation,Private foundation,BC,Yes,"Sub-Saharan Africa, South Asia",Climate-resilient water security,150000,450000,Open call,"Full proposals due Jan 22, 2027",Registered charities,Semi-annual,Cold,
+F033,Federal Partnerships for Health and Rights Program,Government program (fictional),Federal,Yes,Eligible ODA countries,Health; gender equality,1000000,8000000,Government call,Irregular,Canadian organizations,Quarterly + audit,Lapsed,Synthetic federal program.
+F034,Stonehaven Corporate Giving,Corporate giving program,ON,Restricted,Canada; global only with employee-volunteer component,Employee engagement,10000,50000,Corporate proposal,Rolling,Must include local employee volunteering,Annual,None,
+F035,Larkspur Trust,Private foundation,ON,Yes,Global,Water and health,100000,350000,Open call,Annual (Dec 1),Registered charities,Annual,None,
+F036,Oakhurst Public Foundation,Public foundation (donor-advised),ON,Yes,Global,Donor-directed,5000,500000,Invitation only (donor-advised),None,Donor-advised; no applications,None,None,
+F037,Bramblewood Foundation,Private foundation,ON,Yes,Global,Health; water,30000,120000,Open call,Annual,Registered charities,Annual,Cold,
+F038,Calloway-Pierce Trust,Private family foundation,ON,Yes,Africa,Water,25000,75000,LOI then invitation,Twice yearly,Registered charities,Annual,Cold,
+F039,Edgecliff Foundation,Private foundation,BC,Yes,Global,Climate,50000,200000,Open call,Annual,Registered charities,Semi-annual,Cold,
+F040,Fairholme Family Foundation,Private family foundation,ON,Yes,Global,Girls' education,20000,60000,Open call,Annual,Registered charities,Annual,Lapsed,
+F041,Glenarden Foundation,Private foundation,AB,Yes,Global,International development,25000,100000,Open call,Annual,Registered charities,Annual,Cold,
+F042,Hollis-Reach Foundation,Private foundation,ON,Yes,South Asia,Health,40000,150000,LOI then invitation,Annual,Registered charities,Annual,Warm,
+F043,Ironwood Cooperative Fund,Corporate giving program,SK,Yes,Global,Food and water,15000,50000,Corporate proposal,Rolling,Registered charities,Annual,Cold,
+F044,Juniper Lane Foundation,Private family foundation,ON,Yes,Global,Women and girls,25000,90000,Open call,Annual,Registered charities,Annual,Cold,
+F045,Kettleby Engineering Giving,Corporate giving program,ON,Yes,Global,Engineering for development,20000,80000,Corporate proposal,Rolling,Registered charities,Annual,Cold,
+F046,Lowther Health Foundation,Public foundation,ON,Yes,Global,Health systems,50000,250000,Open call,Annual,Registered charities,Semi-annual,Cold,
+F047,Meridale Foundation,Private foundation,ON,Yes,Global,Climate and water,40000,160000,Open call,Annual,Registered charities,Annual,Cold,
+F048,Norcliffe Telecom Community Fund,Corporate giving program,ON,Yes,Global,Digital innovation for development,25000,100000,Corporate proposal,Annual,Registered charities,Quarterly,Cold,
+F049,Calderwood Health Foundation,Private foundation,ON,Yes,Sub-Saharan Africa,Primary health care,50000,120000,Open call,Annual,Registered charities,Annual,Cold,
+F050,Meadowlark Family Foundation,Private family foundation,BC,Yes,East Africa,Climate adaptation; water,150000,300000,LOI then invitation,Twice yearly,Registered charities,Semi-annual,Warm,
+F051,Tidewell Foundation,Private foundation,ON,Yes,Southern Africa,Water systems,300000,500000,Open call,Annual,Registered charities,Semi-annual,Cold,
+F052,Ridgeview Outfitters Giving,Corporate giving program,AB,Yes,Global,Hygiene and health,25000,60000,Corporate proposal,Rolling,Registered charities,Annual,Cold,
+F053,Saffron Hill Foundation,Private family foundation,ON,Yes,South Asia,Education,20000,40000,Open call,Annual,Registered charities,Annual,Warm,
+F054,Northbrook Women's Fund,Public foundation,ON,Yes,Global,Women's economic and civic leadership,75000,125000,LOI then invitation,Annual,Registered charities,Annual,Cold,
+F055,Elderglen Trust,Private foundation,ON,Yes,South Asia,Sanitation,40000,80000,Open call,Annual,Registered charities,Annual,Cold,
+F056,Cobalt Lake Foundation,Private foundation,ON,Yes,Canada and global,Global citizenship education,15000,30000,LOI then invitation,Annual,Registered charities,Annual,Active,

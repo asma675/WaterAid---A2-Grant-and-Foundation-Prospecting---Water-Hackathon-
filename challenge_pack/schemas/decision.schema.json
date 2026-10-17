@@ -1,0 +1,105 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "decision.schema.json",
+  "title": "Decision",
+  "description": "Human decision on a recommendation: the learning data.",
+  "type": "object",
+  "required": [
+    "decision_id",
+    "rec_id",
+    "date",
+    "reviewer",
+    "human_decision",
+    "agreement"
+  ],
+  "properties": {
+    "decision_id": {
+      "type": "string"
+    },
+    "rec_id": {
+      "type": "string"
+    },
+    "date": {
+      "type": "string",
+      "format": "date"
+    },
+    "reviewer": {
+      "type": "string"
+    },
+    "human_decision": {
+      "enum": [
+        "PURSUE",
+        "PURSUE-QUEUE",
+        "CULTIVATE",
+        "REVIEW",
+        "MONITOR",
+        "DECLINE",
+        "STEWARD",
+        "REFER"
+      ]
+    },
+    "agreement": {
+      "enum": [
+        "agree",
+        "partial",
+        "disagree"
+      ]
+    },
+    "reason_code": {
+      "enum": [
+        "ELIG",
+        "DATE",
+        "STALE",
+        "FIT",
+        "ECON",
+        "CAP",
+        "REL",
+        "GIFT",
+        "DUP",
+        "GOOD",
+        "OTHER"
+      ]
+    },
+    "comment": {
+      "type": "string"
+    },
+    "next_action": {
+      "type": "string"
+    },
+    "owner": {
+      "type": "string"
+    },
+    "due": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date"
+    },
+    "crm_record_id": {
+      "type": [
+        "string",
+        "null"
+      ]
+    }
+  },
+  "allOf": [
+    {
+      "if": {
+        "properties": {
+          "agreement": {
+            "enum": [
+              "partial",
+              "disagree"
+            ]
+          }
+        }
+      },
+      "then": {
+        "required": [
+          "reason_code"
+        ]
+      }
+    }
+  ]
+}

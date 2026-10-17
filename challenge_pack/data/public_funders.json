@@ -1,0 +1,141 @@
+[
+  {
+    "id": "F-ON",
+    "name": "Government of Ontario — Great Lakes Local Action Fund",
+    "type": "Provincial government",
+    "website": "https://www.ontario.ca/page/great-lakes-local-action-fund",
+    "program_url": "https://www.ontario.ca/page/great-lakes-local-action-fund",
+    "status": "Open through Nov. 6, 2026",
+    "geography": "Ontario Great Lakes ecosystem",
+    "themes": [
+      "Great Lakes",
+      "water quality",
+      "climate resilience",
+      "wetlands"
+    ],
+    "access": "Open competitive call",
+    "published_peer_gifts": 27,
+    "signal": "VERY HIGH",
+    "why": "Direct water-quality program with published prior recipients and current open intake.",
+    "source_ids": [
+      "SRC-ON-GLLAF"
+    ]
+  },
+  {
+    "id": "F-WSF",
+    "name": "Watershed Security Fund",
+    "type": "Independent Canadian fund",
+    "website": "https://watershedsecurityfund.ca/",
+    "program_url": "https://watershedsecurityfund.ca/grants/",
+    "status": "Intake 4 open through Nov. 10, 2026",
+    "geography": "British Columbia",
+    "themes": [
+      "watersheds",
+      "restoration",
+      "monitoring",
+      "First Nations",
+      "climate resilience"
+    ],
+    "access": "Open intake; one application per organization",
+    "published_peer_gifts": 80,
+    "signal": "VERY HIGH",
+    "why": "Dedicated watershed fund with three funding streams and extensive public recipient history.",
+    "source_ids": [
+      "SRC-WSF",
+      "SRC-WSF-AWARDS"
+    ]
+  },
+  {
+    "id": "F-CWA",
+    "name": "Canada Water Agency",
+    "type": "Federal government",
+    "website": "https://www.canada.ca/en/canada-water-agency.html",
+    "program_url": "https://www.canada.ca/en/canada-water-agency/funding.html",
+    "status": "Multiple open, closed and recurring freshwater programs",
+    "geography": "Canada-wide plus basin-specific programs",
+    "themes": [
+      "freshwater",
+      "water quality",
+      "ecosystem health",
+      "data",
+      "innovation"
+    ],
+    "access": "Competitive calls through federal grants systems",
+    "published_peer_gifts": 50,
+    "signal": "VERY HIGH",
+    "why": "Core federal freshwater funder with multiple basin initiatives and public award histories.",
+    "source_ids": [
+      "SRC-CWA-FUNDING",
+      "SRC-CWA-FEI",
+      "SRC-CWA-FUNDED"
+    ]
+  },
+  {
+    "id": "F-ECCC-EDF",
+    "name": "Environmental Damages Fund",
+    "type": "Federal government fund",
+    "website": "https://www.canada.ca/en/environment-climate-change/services/environmental-funding/programs/environmental-damages-fund.html",
+    "program_url": "https://www.canada.ca/en/environment-climate-change/services/environmental-funding/programs/environmental-damages-fund/available-funds.html",
+    "status": "Current Quebec call; recurring national program",
+    "geography": "Canada; each fund has geographic restrictions",
+    "themes": [
+      "restoration",
+      "water quality",
+      "habitat",
+      "environmental quality"
+    ],
+    "access": "Competitive calls",
+    "published_peer_gifts": 600,
+    "signal": "HIGH",
+    "why": "Large recurring environmental fund with public current pools and award records.",
+    "source_ids": [
+      "SRC-ECCC-EDF",
+      "SRC-ECCC-EDF-APPLY",
+      "SRC-OPEN-GC"
+    ]
+  },
+  {
+    "id": "F-TD-FEF",
+    "name": "TD Friends of the Environment Foundation",
+    "type": "Corporate foundation / charity",
+    "website": "https://www.td.com/ca/en/about-td/community-giving/fef",
+    "program_url": "https://www.td.com/ca/en/about-td/community-giving/apply-for-funding/fef-grant",
+    "status": "Winter 2027 deadline Dec. 15, 2026",
+    "geography": "Canada-wide; local/regional review",
+    "themes": [
+      "environmental education",
+      "citizen science",
+      "habitat restoration",
+      "green spaces"
+    ],
+    "access": "Online application; two review cycles annually",
+    "published_peer_gifts": 546,
+    "signal": "HIGH",
+    "why": "Accessible Canadian environmental funder; especially relevant for community stewardship and water education rather than infrastructure.",
+    "source_ids": [
+      "SRC-TD-FEF"
+    ]
+  },
+  {
+    "id": "F-FCM",
+    "name": "Federation of Canadian Municipalities — Green Municipal Fund",
+    "type": "Municipal-sector fund",
+    "website": "https://greenmunicipalfund.ca/",
+    "program_url": "https://fcm.ca/en/funding",
+    "status": "Multiple funding opportunities",
+    "geography": "Canadian communities",
+    "themes": [
+      "stormwater",
+      "wastewater",
+      "water",
+      "municipal sustainability"
+    ],
+    "access": "Program-specific; often municipal involvement required",
+    "published_peer_gifts": 0,
+    "signal": "HIGH",
+    "why": "Strong source for water infrastructure and pilot funding when municipal eligibility or partnerships fit.",
+    "source_ids": [
+      "SRC-FCM-FUNDING"
+    ]
+  }
+]

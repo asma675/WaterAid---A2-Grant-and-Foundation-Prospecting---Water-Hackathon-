@@ -1,0 +1,38 @@
+# SYNTHETIC - FICTIONAL ORGANIZATION FOR THE WATER CHALLENGE - NOT WATERAID DATA
+passport_id,field_key,attribute,water_care_value,how_to_match,evidence_document,data_class,where_real_value_comes_from,owner_role
+EP-01,legal_status,Legal status,Registered charity (Canada),Funder must accept registered charities.,CRA registration letter (synthetic),Public,CRA List of Charities: the organization's own record,Finance
+EP-02,qualified_donee,Qualified donee,Yes,Private and public foundations in Canada can generally grant only to qualified donees. Passes this gate.,CRA registration letter,Public,CRA List of Charities (registered charity = qualified donee),Finance
+EP-03,cra_designation,CRA designation,Charitable organization,Some funders exclude public/private foundations as applicants. Water Care is not a foundation.,T3010 (synthetic),Public,CRA List of Charities: designation,Finance
+EP-04,business_number,Charitable registration #,000000000 RR0001 (SYNTHETIC),Placeholder only. Never treat as real.,-,Public,CRA List of Charities,Finance
+EP-05,incorporation,Incorporation,"Federal, Canada Not-for-profit Corporations Act, 2003",Federal incorporation satisfies 'Canadian-incorporated' requirements.,Articles of continuance,Internal,Corporate records,Finance / Board secretary
+EP-06,years_registered,Years registered,22 (since 2004),Passes minimum operating-history rules up to 22 years.,CRA registration letter,Public,CRA List of Charities: effective date of status,Finance
+EP-07,hq,Head office,"Toronto, Ontario",Passes Ontario- and GTA-restricted funders ONLY when the funder allows international beneficiaries.,Annual report,Public,Organization website / CRA listing,Operations
+EP-08,staff_provinces,Provinces with staff,"Ontario (22 FTE), British Columbia (2 FTE remote)",No Quebec presence. Fails funders requiring a Quebec office.,HR records,Internal,HR records,Operations
+EP-09,revenue_cad,Annual revenue (FY2025-26),"$5,400,000 CAD","Fails revenue caps below $5.4M (e.g., 'organizations under $2M').",Audited statements,Public,Latest T3010 financial summary (CRA listing),Finance
+EP-10,audited,Audited financial statements,"Yes, last 3 years",Passes audit requirements.,Audited statements,Internal,Audited financial statements,Finance
+EP-11,fye,Fiscal year end,March 31,Align reporting cycles.,Audited statements,Public,T3010 fiscal period,Finance
+EP-12,delivery_model,Delivery model,"International programs delivered through Water Care International country programs and local partners, via grant agreements with accountability measures (qualifying disbursements) or direct-and-control arrangements",Fails funders that fund only local in-country CSOs directly. Passes funders that fund Canadian charities working internationally.,Partnership agreements,Internal,Partnership and grant agreements with delivery partners,Programs
+EP-13,domestic_programs,Programs in Canada,No (engagement and policy only),Fails 'Canadian beneficiaries only' funders.,Strategy 2023-2033,Internal,Current strategy,Programs
+EP-14,countries_priority,Priority countries,"Malawi, Mozambique, Ethiopia, Nepal",Geographic match: strongest.,Strategy 2023-2033,Internal,Current country portfolio,Programs
+EP-15,countries_secondary,Secondary countries,"Zambia, Bangladesh (co-funding only)",Geographic match: partial; cannot lead.,Strategy 2023-2033,Internal,Current country portfolio,Programs
+EP-16,regions,Regions,"Southern Africa, East Africa, South Asia","Fails region-restricted funders outside these (e.g., West Africa only, Latin America).",Strategy 2023-2033,Internal,Current country portfolio,Programs
+EP-17,themes_core,Core themes,"WASH-HCF, WASH-CLIM, WASH-GEN, WASH-SYS",Highest fit.,Strategy 2023-2033,Internal,Current strategy,Programs
+EP-18,themes_secondary,Secondary themes,"WASH-SCH, WASH-HYG, WASH-SAN, POL-CAN, ENG-CAN",Moderate fit.,Strategy 2023-2033,Internal,Current strategy,Programs
+EP-19,themes_excluded,Will not do,Emergency first response; domestic Canadian programs; capital-only works; grants to individuals; stand-alone research,Hard decline.,Strategy 2023-2033,Internal,Program policy,Programs
+EP-20,populations,Populations,Women and girls; People with disabilities; Rural and peri-urban low-income communities; Healthcare workers and patients (maternal and newborn care); School-age children,Match to funder population focus.,Strategy 2023-2033,Internal,Current strategy,Programs
+EP-21,sdgs,SDGs,"Primary SDG 6; secondary SDG 3, 5, 13",Match to funder SDG framing.,Strategy 2023-2033,Internal,Current strategy,Programs
+EP-22,languages,Application languages,English: full capacity. French: summaries only (1 staff member),Fails funders requiring full French applications.,HR records,Internal,Team capacity,Philanthropy lead
+EP-23,indigenous_led,Indigenous-led organization,No,Fails Indigenous-led-only funders.,Board register,Internal,Board and leadership composition,Board secretary
+EP-24,women_led,Women-led organization,CEO is a woman; 7 of 12 directors are women; Board Chair is a man,AMBIGUOUS: passes 'woman CEO' or 'majority-women board' definitions; fails 'woman Board Chair' or '75%+ women' definitions. Flag for human review.,Board register,Internal,Board and leadership composition; funder definitions vary,Board secretary
+EP-25,policies,Policies in place,Safeguarding; gender equality; anti-fraud and corruption; sanctions/anti-terrorism screening; environmental and social safeguards; privacy; whistleblower,Passes standard due-diligence checklists.,Policy library,Internal,Policy library,Operations
+EP-26,grant_min_viable,Minimum viable grant,"$15,000 CAD","Below this, decline unless a strategic relationship justifies it.",Capacity model,Internal,Philanthropy team judgment + cost model,Philanthropy lead
+EP-27,grant_sweet_spot,Grant sweet spot,"$50,000-$500,000 CAD per year",Best yield per hour of effort.,Capacity model,Internal,Historical grants,Philanthropy lead
+EP-28,max_new_restricted,Max new restricted funding per year,"$2,500,000 CAD",Program absorptive capacity; larger awards need a consortium.,Finance,Internal,Program absorptive capacity,Programs / Finance
+EP-29,match_capacity,Cash match capacity,Up to 20% of project value from unrestricted funds,Fails 1:1 match requirements unless a co-funder is secured.,Finance,Internal,Reserves policy,Finance
+EP-30,indirect_rate,Standard indirect cost rate,12%,"Funders capping indirect costs below 10% reduce net value (soft penalty, not a gate).",Finance,Internal,Finance policy,Finance
+EP-31,multi_year,Accepts multi-year funding,Yes (preferred),Positive signal.,-,Internal,Finance policy,Finance
+EP-32,reporting,Reporting capacity,Quarterly or semi-annual narrative + financial is standard; monthly reporting is high burden,Soft penalty for monthly reporting.,-,Internal,Team capacity,Philanthropy lead
+EP-33,gift_excluded,Gift acceptance: excluded sources,Tobacco; weapons; gambling; companies with active WASH-related human-rights litigation,Hard decline.,Gift acceptance policy,Internal,Gift acceptance policy,CEO
+EP-34,gift_review,Gift acceptance: CEO review required,"Bottled water and beverage companies; extractives (mining, oil and gas); agro-chemicals","Route to REVIEW, never auto-pursue.",Gift acceptance policy,Internal,Gift acceptance policy,CEO
+EP-35,us_status,US tax status,None (no US 501(c)(3) affiliate; no equivalency determination on file),US private foundations need an equivalency determination or expenditure responsibility. Flag as uncertain.,-,Internal,Legal / Finance,Finance
+EP-36,federal_track_record,Federal international assistance track record,2 completed federal contribution agreements since 2018,Positive signal for government calls.,Grant register,Internal,Grant records,Philanthropy lead

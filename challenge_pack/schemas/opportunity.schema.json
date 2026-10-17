@@ -1,0 +1,176 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "opportunity.schema.json",
+  "title": "Opportunity",
+  "description": "One fundable opportunity extracted from sources.",
+  "type": "object",
+  "required": [
+    "opp_id",
+    "funder_id",
+    "title",
+    "sources"
+  ],
+  "properties": {
+    "opp_id": {
+      "type": "string"
+    },
+    "funder_id": {
+      "type": "string"
+    },
+    "title": {
+      "type": "string"
+    },
+    "sources": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "$ref": "#/$defs/source"
+      }
+    },
+    "deadline": {
+      "description": "Next deadline. Null when the source does not state it; never guessed.",
+      "type": [
+        "object",
+        "null"
+      ],
+      "required": [
+        "value",
+        "source"
+      ],
+      "properties": {
+        "value": {
+          "type": "string",
+          "format": "date"
+        },
+        "source": {
+          "$ref": "#/$defs/source"
+        },
+        "status": {
+          "enum": [
+            "confirmed",
+            "inferred"
+          ],
+          "description": "Inferred values must never be shown as fact"
+        }
+      }
+    },
+    "amount_cad": {
+      "description": "Min/max for this opportunity. Null when the source does not state it; never guessed.",
+      "type": [
+        "object",
+        "null"
+      ],
+      "required": [
+        "value",
+        "source"
+      ],
+      "properties": {
+        "value": {
+          "type": "array",
+          "items": {
+            "type": "number"
+          }
+        },
+        "source": {
+          "$ref": "#/$defs/source"
+        },
+        "status": {
+          "enum": [
+            "confirmed",
+            "inferred"
+          ],
+          "description": "Inferred values must never be shown as fact"
+        }
+      }
+    },
+    "application_type": {
+      "enum": [
+        "LOI",
+        "Short application",
+        "Full proposal",
+        "Corporate proposal",
+        "Government call",
+        "Renewal",
+        "Unknown"
+      ]
+    },
+    "themes": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "countries": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "requirements": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "passport_field",
+          "rule",
+          "source"
+        ],
+        "properties": {
+          "passport_field": {
+            "type": "string"
+          },
+          "rule": {
+            "type": "string"
+          },
+          "source": {
+            "$ref": "#/$defs/source"
+          }
+        }
+      }
+    },
+    "conflicts": {
+      "type": "array",
+      "description": "Facts on which sources disagree",
+      "items": {
+        "type": "object",
+        "properties": {
+          "field": {
+            "type": "string"
+          },
+          "values": {
+            "type": "array"
+          },
+          "sources": {
+            "type": "array",
+            "items": {
+              "$ref": "#/$defs/source"
+            }
+          }
+        }
+      }
+    }
+  },
+  "$defs": {
+    "source": {
+      "type": "object",
+      "required": [
+        "url",
+        "retrieved",
+        "quote"
+      ],
+      "properties": {
+        "url": {
+          "type": "string"
+        },
+        "retrieved": {
+          "type": "string",
+          "format": "date"
+        },
+        "quote": {
+          "type": "string",
+          "description": "Exact text supporting the value"
+        }
+      }
+    }
+  }
+}

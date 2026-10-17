@@ -1,0 +1,32 @@
+[
+  {
+    "id": "LIVE-GAC-01",
+    "funder": "Global Affairs Canada",
+    "title": "Canadian Climate Partnerships Initiative",
+    "decision": "DECLINE",
+    "gate": "G6 Access",
+    "status": "Application period underway",
+    "deadline": "2026-11-17 12:00 ET",
+    "geography": "Sub-Saharan Africa",
+    "amount": "CAD $10M–$25M estimated project value",
+    "reason": "Invitation-only. The published invited-organization list does not include the fictional Water Care organization, so the tool should decline despite strong climate/geography fit.",
+    "source_url": "https://www.international.gc.ca/world-monde/funding-financement/2026-09-15-climate_partnerships-partenariats_climat.aspx?lang=eng",
+    "retrieved": "2026-10-17",
+    "evidence_quote": "Only organizations invited by GAC are eligible to apply."
+  },
+  {
+    "id": "LIVE-GAC-02",
+    "funder": "Global Affairs Canada",
+    "title": "Unsolicited concept note mechanism",
+    "decision": "CULTIVATE",
+    "gate": "G6 Access: pass; exact opportunity terms not yet defined",
+    "status": "Applications accepted on an ongoing basis",
+    "deadline": "Ongoing",
+    "geography": "ODA-eligible countries",
+    "amount": "Unknown — do not invent",
+    "reason": "A Canadian legal entity with a CRA number can submit a concept note, but there is no specific call amount or deadline to rank as a confirmed grant opportunity. Treat as a relationship/program-development path, not a fake open grant.",
+    "source_url": "https://www.international.gc.ca/world-monde/funding-financement/apply_funding-demande_financement.aspx?lang=eng",
+    "retrieved": "2026-10-17",
+    "evidence_quote": "Canadian organizations must also have a Canada Revenue Agency (CRA) number."
+  }
+]

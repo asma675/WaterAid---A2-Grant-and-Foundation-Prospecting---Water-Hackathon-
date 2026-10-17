@@ -1,0 +1,12 @@
+# SYNTHETIC - FICTIONAL ORGANIZATION FOR THE WATER CHALLENGE - NOT WATERAID DATA
+risk_id,risk,consequence,control,owner
+R1,"Invented facts (deadline, amount, rule)",Reputation; wasted proposal cycle,"Every extracted field must quote its source and date; null when absent; tests O03, O12 check this",Tool + Officer
+R2,Misread eligibility,Wasted effort; looks careless to funder,"Gates cite passport IDs; Uncertain routes to REVIEW; tests O02, O06, O10, O20",Tool + Officer
+R3,Stale information,Applying to closed or changed programs,Freshness rule: flag sources older than 90 days; change detection on snapshots,Tool
+R4,Gift-acceptance breach,Reputation,Excluded sectors decline; review sectors always go to the CEO,Director / CEO
+R5,Misuse of relationships,Board and donor trust,Never suggest an approach through a person with consent = No,Tool + Director
+R6,Donor personal data exposure,"Privacy, trust, legal",Relationship and donor data stay in the organization's own systems; only public funder data goes to external AI services unless approved,Director
+R7,Over-recommending,Overloads a two-person team,Hard cap: max 5 briefs/week; capacity check before PURSUE,Tool
+R8,Model or prompt drift,Silent quality decline,Rerun acceptance tests quarterly and after any change; target 90%+ pass,Director
+R9,Running cost creep,Economics fail,Monthly cost cap and report (L4_Running_Cost),Director
+R10,Automation bias,Staff stop checking,Briefs show confidence and unknowns; sample-check 1 declined item per week,Officer

@@ -1,0 +1,65 @@
+[
+  {
+    "funder": "Government of Ontario — Great Lakes Local Action Fund",
+    "name": "Great Lakes Local Action Fund",
+    "role": "Program contact",
+    "contact_type": "Email",
+    "channel": "greatlakesfund@ontario.ca",
+    "url": "https://www.ontario.ca/page/great-lakes-local-action-fund",
+    "source_note": "Public program contact on Ontario funding page."
+  },
+  {
+    "funder": "Watershed Security Fund",
+    "name": "Grants Team",
+    "role": "Grant support",
+    "contact_type": "Email",
+    "channel": "grants@watershedsecurityfund.ca",
+    "url": "https://watershedsecurityfund.ca/grants/",
+    "source_note": "Public grants support contact."
+  },
+  {
+    "funder": "Canada Water Agency — Lake Simcoe",
+    "name": "Lake Simcoe Program",
+    "role": "Program contact",
+    "contact_type": "Email",
+    "channel": "LakeSimcoe-LacSimcoe@cwa-aec.gc.ca",
+    "url": "https://www.canada.ca/en/canada-water-agency/freshwater-ecosystem-initiatives/lake-simcoe/overview.html",
+    "source_note": "Public program contact."
+  },
+  {
+    "funder": "Canada Water Agency — Lake of the Woods",
+    "name": "Lake of the Woods Program",
+    "role": "Program contact",
+    "contact_type": "Email",
+    "channel": "lakeofthewoods-lacdesbois@cwa-aec.gc.ca",
+    "url": "https://www.canada.ca/en/canada-water-agency/freshwater-ecosystem-initiatives/lake-of-the-woods/lake-of-the-woods-overview.html",
+    "source_note": "Public program contact."
+  },
+  {
+    "funder": "Canada Water Agency — EcoAction",
+    "name": "EcoAction Stream 2",
+    "role": "Program contact",
+    "contact_type": "Email",
+    "channel": "EcoActionStream2-EcoActionVolet2@cwa-aec.gc.ca",
+    "url": "https://www.canada.ca/en/canada-water-agency/funding/ecoaction-community-program/stream2.html",
+    "source_note": "Public program contact."
+  },
+  {
+    "funder": "Environmental Damages Fund",
+    "name": "ECCC Environmental Funding",
+    "role": "Program contact",
+    "contact_type": "Email",
+    "channel": "enviroinfo@ec.gc.ca",
+    "url": "https://www.canada.ca/en/environment-climate-change/services/environmental-funding/programs/environmental-damages-fund/available-funds.html",
+    "source_note": "Public federal program contact."
+  },
+  {
+    "funder": "TD Friends of the Environment Foundation",
+    "name": "TD FEF",
+    "role": "General questions",
+    "contact_type": "Email",
+    "channel": "tdfef@td.com",
+    "url": "https://www.td.com/ca/en/about-td/community-giving/apply-for-funding/fef-grant",
+    "source_note": "Public TD FEF contact."
+  }
+]

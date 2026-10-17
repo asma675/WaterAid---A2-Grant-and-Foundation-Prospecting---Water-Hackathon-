@@ -1,0 +1,6 @@
+# SYNTHETIC - FICTIONAL ORGANIZATION FOR THE WATER CHALLENGE - NOT WATERAID DATA
+decision_id,date,opp_id,funder_id,tool_recommendation,tool_fit_score,reviewer,human_decision,agreement,reason_code,comment,next_action,owner,due_date,crm_record_id
+D-0001,2026-10-20,O01,F016,PURSUE,3.6,OFF,PURSUE,Agree,GOOD,Short form; Malawi schools menstrual-health work fits.,Draft application,OFF,2026-11-06,CRM-PLACEHOLDER-1
+D-0002,2026-10-20,O11,F012,REVIEW,3.4,OFF,MONITOR,Partial,DATE,Two deadlines; confirm with Rivermark before investing 40 hrs.,Email Rivermark,OFF,2026-10-24,
+D-0003,2026-10-20,O02,F004,DECLINE,,OFF,DECLINE,Agree,GOOD,Local only.,None,-,,
+D-0004,2026-10-21,O24,F032,PURSUE-QUEUE,4.0,DIR,PURSUE-QUEUE,Agree,CAP,"Outline in Dec, write in Jan.",Outline,DIR,2026-12-15,
