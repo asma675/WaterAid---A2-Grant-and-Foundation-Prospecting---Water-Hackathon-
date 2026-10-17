@@ -1,0 +1,245 @@
+[
+  {
+    "id": "CA-RONCALLI-WASH-2027",
+    "funder": "Roncalli International Foundation",
+    "title": "International WASH & climate-resilience grants \u2014 next intake / waitlist",
+    "status": "2026 deadline passed; applications after June 30 placed on waitlist",
+    "deadline": "Next normal cycle to verify",
+    "amount": "Up to CAD 35,000",
+    "geography": "Selected countries across Africa, Asia and Latin America",
+    "location": "Multiple WaterAid countries",
+    "target_countries": [
+      "Burkina Faso",
+      "Ethiopia",
+      "Ghana",
+      "Madagascar",
+      "Malawi",
+      "Mali",
+      "Mozambique",
+      "Niger",
+      "Rwanda",
+      "Senegal",
+      "Tanzania",
+      "Uganda",
+      "Zambia",
+      "India",
+      "Nepal",
+      "Pakistan",
+      "Papua New Guinea",
+      "Colombia"
+    ],
+    "themes": [
+      "clean water",
+      "sanitation",
+      "climate resilience",
+      "women and girls",
+      "community development"
+    ],
+    "decision": "PURSUE-QUEUE",
+    "eligible": "Potentially \u2014 nonprofit eligibility plus new-partner reference requirement",
+    "fit_score": 4.8,
+    "readiness": 82,
+    "failed_gates": [],
+    "reason": "Canadian foundation with an explicit Water and Sanitation action area, grants up to $35,000, and a country list that overlaps heavily with WaterAid. The 2026 normal deadline has passed, so the best action is to prepare for the next cycle or ask about the waitlist.",
+    "next_action": "Map a small, locally led WASH project to Roncalli criteria; verify next intake timing and identify a reference organization if WaterAid is treated as a new partner.",
+    "source_url": "https://roncalli.ca/en/grant-application/",
+    "retrieved": "2026-10-17",
+    "evidence": "Roncalli funds 100+ Global South projects yearly; Water and Sanitation is an explicit action area; grants may be up to CAD 35,000; 2026 applications after June 30 go to a waitlist.",
+    "evidence_items": [
+      {
+        "url": "https://roncalli.ca/en/grant-application/",
+        "retrieved": "2026-10-17",
+        "quote": "Applications received after June 30, 2026 will be placed on a waiting list; projects must meet criteria and take place in a country where the Foundation works.",
+        "source_type": "first-party grant page"
+      },
+      {
+        "url": "https://roncalli.ca/en/our-impact/our-approach/areas-of-action/",
+        "retrieved": "2026-10-17",
+        "quote": "Water and Sanitation projects may include wells, pumps, reservoirs, latrines, handwashing stations, awareness and training.",
+        "source_type": "first-party program page"
+      }
+    ],
+    "funder_country": "Canada",
+    "project_country": "Multiple WaterAid countries",
+    "funder_type": "Canadian private foundation",
+    "applicant_types": [
+      "legally registered nonprofit organization",
+      "NGO",
+      "religious congregation"
+    ]
+  },
+  {
+    "id": "CA-PGF-INTL-2027",
+    "funder": "Peter Gilgan Foundation",
+    "title": "International Development \u2014 maternal & child health / women & girls",
+    "status": "2026 EOI window closed; monitor next cycle",
+    "deadline": "2026-07-13 closed",
+    "amount": "Recent grants roughly CAD 20,000\u2013250,000; varies by cycle",
+    "geography": "Primary focus Sub-Saharan Africa",
+    "location": "Sub-Saharan Africa",
+    "target_countries": [
+      "Ethiopia",
+      "Ghana",
+      "Liberia",
+      "Madagascar",
+      "Malawi",
+      "Mozambique",
+      "Rwanda",
+      "Tanzania",
+      "Uganda",
+      "Zambia",
+      "Burkina Faso",
+      "Mali",
+      "Niger",
+      "Nigeria",
+      "Senegal"
+    ],
+    "themes": [
+      "WASH",
+      "maternal and child health",
+      "women and girls",
+      "climate-resilient livelihoods"
+    ],
+    "decision": "MONITOR",
+    "eligible": "Registered Canadian charities can be eligible; verify next call",
+    "fit_score": 4.9,
+    "readiness": 76,
+    "failed_gates": [],
+    "reason": "The Foundation explicitly funds international development, has supported WASH-related work in Nigeria and Ethiopia, and its program guidance has linked WASH infrastructure to maternal and child health. The current 2026 EOI window is closed.",
+    "next_action": "Add to Funding Watch and prepare a next-cycle case around WASH + maternal/child health or women and girls in a WaterAid priority country.",
+    "source_url": "https://www.petergilganfoundation.org/grant-program/international-development/",
+    "retrieved": "2026-10-17",
+    "evidence": "The International Development program supports women and girls, primarily in Sub-Saharan Africa; the 2026 EOI window closed July 13 and is under review.",
+    "evidence_items": [
+      {
+        "url": "https://www.petergilganfoundation.org/grant-program/international-development/",
+        "retrieved": "2026-10-17",
+        "quote": "International Development focuses on Maternal & Child Health and Women & Girls Opportunity, with a primary focus on Sub-Saharan Africa; 2026 EOI window closed July 13.",
+        "source_type": "first-party program page"
+      },
+      {
+        "url": "https://www.petergilganfoundation.org/grant-recipients/international/",
+        "retrieved": "2026-10-17",
+        "quote": "Recent recipients include Lifewater Canada for clean water and sanitation in Nigeria and Operation Eyesight Canada for integrated WASH and maternal/child health in Ethiopia.",
+        "source_type": "first-party recipient history"
+      }
+    ],
+    "funder_country": "Canada",
+    "project_country": "Multiple WaterAid countries",
+    "funder_type": "Canadian family foundation",
+    "applicant_types": [
+      "registered Canadian charity"
+    ]
+  },
+  {
+    "id": "CA-GAC-UNSOLICITED",
+    "funder": "Global Affairs Canada",
+    "title": "Unsolicited proposal pathway for international assistance",
+    "status": "Applications accepted on an ongoing basis",
+    "deadline": "Ongoing",
+    "amount": "Not fixed \u2014 proposal-specific",
+    "geography": "ODA-eligible countries worldwide",
+    "location": "WaterAid target countries",
+    "target_countries": [
+      "Bangladesh",
+      "Cambodia",
+      "India",
+      "Nepal",
+      "Pakistan",
+      "Papua New Guinea",
+      "Timor-Leste",
+      "Ethiopia",
+      "Rwanda",
+      "Tanzania",
+      "Uganda",
+      "Madagascar",
+      "Malawi",
+      "Mozambique",
+      "Zambia",
+      "Burkina Faso",
+      "Ghana",
+      "Liberia",
+      "Mali",
+      "Niger",
+      "Nigeria",
+      "Senegal",
+      "Colombia"
+    ],
+    "themes": [
+      "WASH",
+      "global health",
+      "gender equality",
+      "climate resilience",
+      "international development"
+    ],
+    "decision": "CULTIVATE",
+    "eligible": "Canadian NGOs and private-sector organizations may submit if requirements are met",
+    "fit_score": 4.7,
+    "readiness": 81,
+    "failed_gates": [],
+    "reason": "GAC is an established WaterAid Canada funder and accepts unsolicited proposals on an ongoing basis for ODA-eligible countries. This is strategically important but should be pursued only when a strong concept aligns with GAC priorities and WaterAid capacity.",
+    "next_action": "Develop a concept around one or more WaterAid target countries and confirm fit against current GAC policy priorities before entering Partners@International.",
+    "source_url": "https://www.international.gc.ca/world-monde/funding-financement/open_calls-appels_ouverts.aspx?lang=eng",
+    "retrieved": "2026-10-17",
+    "evidence": "GAC lists unsolicited proposals as ongoing for all ODA-eligible countries and non-governmental/private-sector organizations.",
+    "funder_country": "Canada",
+    "project_country": "Multiple WaterAid countries",
+    "funder_type": "Federal government",
+    "applicant_types": [
+      "Canadian NGO",
+      "non-governmental organization",
+      "private-sector organization"
+    ]
+  },
+  {
+    "id": "CA-GAC-CLIMATE-2026",
+    "funder": "Global Affairs Canada",
+    "title": "Canadian Climate Partnerships Initiative",
+    "status": "Application period underway \u2014 invitation only",
+    "deadline": "2026-11-17",
+    "amount": "CAD 10M\u201325M per project",
+    "geography": "Sub-Saharan Africa",
+    "location": "Sub-Saharan Africa",
+    "target_countries": [
+      "Ethiopia",
+      "Rwanda",
+      "Tanzania",
+      "Uganda",
+      "Madagascar",
+      "Malawi",
+      "Mozambique",
+      "Zambia",
+      "Burkina Faso",
+      "Ghana",
+      "Liberia",
+      "Mali",
+      "Niger",
+      "Nigeria",
+      "Senegal"
+    ],
+    "themes": [
+      "climate adaptation",
+      "nature-based solutions",
+      "gender responsiveness",
+      "climate-resilient livelihoods"
+    ],
+    "decision": "DECLINE",
+    "eligible": "No \u2014 only specifically invited organizations can apply; WaterAid Canada is not on the published invitee list",
+    "fit_score": 4.4,
+    "readiness": 18,
+    "failed_gates": [
+      "G6 Access"
+    ],
+    "reason": "Strong geographic and climate-resilience fit, but the call is invitation-only and WaterAid Canada is not among the published invitees. This is exactly the kind of attractive-looking opportunity the system should reject early.",
+    "next_action": "Do not spend proposal hours on this call. Monitor future GAC climate-finance opportunities and partnership routes.",
+    "source_url": "https://www.international.gc.ca/world-monde/funding-financement/2026-09-15-climate_partnerships-partenariats_climat.aspx?lang=eng",
+    "retrieved": "2026-10-17",
+    "evidence": "The call is invitation-only and publishes the invited organizations; WaterAid Canada is not listed.",
+    "funder_country": "Canada",
+    "project_country": "Multiple WaterAid countries",
+    "funder_type": "Federal government",
+    "applicant_types": [
+      "invited Canadian organizations only"
+    ]
+  }
+]

@@ -1,0 +1,20 @@
+# SYNTHETIC - FICTIONAL ORGANIZATION FOR THE WATER CHALLENGE - NOT WATERAID DATA
+assumption_id,assumption_in_pack,why_it_matters,question_for_mentor,priority
+A01,2 institutional fundraisers; 25% and 55% of time on new business,Sets the whole capacity limit,How many hours a week do your fundraisers really have for new prospects after stewardship and reporting?,High
+A02,"Proposal effort: LOI 8 hrs, short application 24, full proposal 60, government call 220",Drives cost and the 'say no' logic,"How long do each of your application types actually take, including program-team input?",High
+A03,"Minimum viable grant $15,000","Below this, the tool recommends declining",What is the smallest grant worth pursuing for a cold funder? For a warm one?,High
+A04,"Weekly review of up to 5 briefs, about 60-90 minutes",Sets output volume,How many recommendations can your team realistically review each week?,High
+A05,"Fit weights: strategy 25%, economics 20%, geography 15%, relationship 15%, win signals 10%, timeline 10%, strategic value 5%",Determines the ranking,Which factors matter most when you decide? Would you change these weights?,High
+A06,"Gift acceptance: tobacco, weapons, gambling excluded; extractives and beverage companies need CEO review",Hard gate,What does your gift acceptance policy exclude or send for review?,High
+A07,"Country list: 4 priority, 2 secondary",Geography gate,"Which countries can WaterAid Canada currently fund, and which are priorities for new money?",High
+A08,Current funders are in the pipeline history,The tool must not 'discover' funders you already have,Can we get a list of current and lapsed funders (names only) to exclude or route to stewardship?,High
+A09,Donor database and handoff fields,Where pursued opportunities go,"Which donor database or CRM do you use, and what fields does a new prospect record need?",Medium
+A10,Briefing-note format,What staff actually read,What does a useful one-page brief look like for you and for senior fundraisers?,Medium
+A11,12% indirect cost rate; 20% cash match capacity,Soft penalties and match gate,"What indirect rate do you budget, and how much match can you commit?",Medium
+A12,Women-led status ambiguous,Some funders require it,How would WaterAid Canada describe its leadership against common women-led definitions?,Medium
+A13,French: summaries only,Language gate,Can you submit full applications in French?,Medium
+A14,Delivery through federation country programs,Some funders require direct delivery or exclude affiliates,"How do funds flow from WaterAid Canada to country programs (grant agreements, direction and control)?",Medium
+A15,Historical win rates from 104 synthetic records,Win probability is a heuristic,Can you share approximate win rates by funder type (no names needed)?,Medium
+A16,No donor personal data goes to external AI services,Privacy and trust,What is your policy on using AI tools with donor or board information?,High
+A17,Monthly running budget for the tool (see L4_Running_Cost),Economic sustainability,"What monthly cost is acceptable, and who owns the tool after the hackathon?",High
+A18,Relationship data with consent flags,Board and donor introductions,Do you track board and donor connections to funders today? Who approves using them?,Medium

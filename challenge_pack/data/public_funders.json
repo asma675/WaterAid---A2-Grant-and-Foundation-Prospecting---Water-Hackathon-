@@ -1,0 +1,189 @@
+[
+  {
+    "id": "F-GAC",
+    "name": "Global Affairs Canada",
+    "type": "Federal government",
+    "status": "Active / multiple international assistance mechanisms",
+    "geography": "ODA-eligible countries",
+    "themes": [
+      "WASH",
+      "global health",
+      "gender equality",
+      "climate resilience"
+    ],
+    "access": "Open calls, unsolicited proposals, invitations and country-level mechanisms",
+    "why": "WaterAid Canada has an established funding relationship with GAC, including SWISH, SHARE, IGNIT3 and EmpowerHer.",
+    "website": "https://www.international.gc.ca/world-monde/funding-financement/open_calls-appels_ouverts.aspx?lang=eng",
+    "program_url": "https://www.international.gc.ca/world-monde/funding-financement/open_calls-appels_ouverts.aspx?lang=eng",
+    "funder_country": "Canada"
+  },
+  {
+    "id": "F-RONCALLI",
+    "name": "Roncalli International Foundation",
+    "type": "Canadian private foundation",
+    "status": "International grants; annual intake/waitlist",
+    "geography": "~50 countries in Africa, Asia, Caribbean, Latin America",
+    "themes": [
+      "clean water",
+      "sanitation",
+      "climate resilience",
+      "women",
+      "health"
+    ],
+    "access": "Online Admission platform; new partners need reference",
+    "why": "Explicit Water and Sanitation action area and strong overlap with WaterAid countries.",
+    "website": "https://roncalli.ca/en/home/",
+    "program_url": "https://roncalli.ca/en/grant-application/",
+    "funder_country": "Canada"
+  },
+  {
+    "id": "F-PGF",
+    "name": "Peter Gilgan Foundation",
+    "type": "Canadian family foundation",
+    "status": "International Development program; 2026 EOI closed",
+    "geography": "Primary focus Sub-Saharan Africa",
+    "themes": [
+      "WASH",
+      "maternal and child health",
+      "women and girls",
+      "climate-resilient livelihoods"
+    ],
+    "access": "EOI cycles; registered Canadian charities",
+    "why": "Recent grants show direct WASH and maternal/child-health giving in Nigeria and Ethiopia.",
+    "website": "https://www.petergilganfoundation.org/",
+    "program_url": "https://www.petergilganfoundation.org/grant-program/international-development/",
+    "funder_country": "Canada"
+  },
+  {
+    "id": "F-GCC",
+    "name": "Grand Challenges Canada",
+    "type": "Canadian nonprofit innovation funder",
+    "status": "Current and periodic global health calls",
+    "geography": "Low- and middle-income countries",
+    "themes": [
+      "global health",
+      "climate and health",
+      "primary health care",
+      "innovation"
+    ],
+    "access": "Open calls only; no unsolicited proposals",
+    "why": "Canadian global-health funder with large international footprint; WASH fit depends on the specific health innovation call.",
+    "website": "https://www.grandchallenges.ca/",
+    "program_url": "https://www.grandchallenges.ca/apply-for-funding/",
+    "funder_country": "Canada"
+  },
+  {
+    "id": "F-IDRC",
+    "name": "International Development Research Centre (IDRC)",
+    "type": "Canadian Crown corporation",
+    "status": "Research funding calls and institutional grants",
+    "geography": "Global South",
+    "themes": [
+      "climate resilience",
+      "global health",
+      "research",
+      "inclusive economies"
+    ],
+    "access": "Mostly solicited calls; rare unsolicited ideas",
+    "why": "Strong for research/evidence partnerships where WASH intersects climate, health or systems change.",
+    "website": "https://idrc-crdi.ca/en",
+    "program_url": "https://idrc-crdi.ca/en/funding",
+    "funder_country": "Canada"
+  },
+  {
+    "id": "F-MCF",
+    "name": "Mastercard Foundation",
+    "type": "Registered Canadian charity / foundation",
+    "status": "Large strategic partnerships",
+    "geography": "Africa and Canada",
+    "themes": [
+      "young women",
+      "livelihoods",
+      "health workforce",
+      "education",
+      "financial inclusion"
+    ],
+    "access": "Program development / co-created partnerships",
+    "why": "Not a core WASH funder, but strategic overlap exists in several WaterAid countries through youth, women, livelihoods and health systems.",
+    "website": "https://mastercardfdn.org/en/",
+    "program_url": "https://mastercardfdn.org/en/what-we-do/our-programs/",
+    "funder_country": "Canada"
+  },
+  {
+    "id": "F-AQUEDUCT",
+    "name": "Aqueduct Foundation",
+    "type": "Canadian public foundation / donor-advised funds",
+    "status": "Active; no unsolicited grant applications",
+    "geography": "Grants to Canadian registered charities; some international/non-qualified-donee grantmaking through approved processes",
+    "themes": [
+      "donor-advised funds",
+      "international charitable work",
+      "environment",
+      "healthcare",
+      "poverty alleviation"
+    ],
+    "access": "Relationship / donor-advised-fund recommendations; not an open application program",
+    "why": "WaterAid Canada listed Aqueduct Foundation among transformational foundation supporters in 2020/21. Aqueduct makes thousands of donor-advised grants and can grant to Canadian registered charities.",
+    "website": "https://aqueductfoundation.ca/",
+    "program_url": "https://aqueductfoundation.ca/grants/",
+    "funder_country": "Canada",
+    "signal": "Historic WaterAid supporter"
+  },
+  {
+    "id": "F-BENEFACTION",
+    "name": "Benefaction Foundation",
+    "type": "Canadian public foundation / donor-advised funds",
+    "status": "Active; donor-advised granting, no general unsolicited applications",
+    "geography": "Canadian registered charities and qualified donees",
+    "themes": [
+      "donor-advised funds",
+      "philanthropy",
+      "charitable giving"
+    ],
+    "access": "Relationship / DAF donor recommendation",
+    "why": "WaterAid Canada listed Benefaction Foundation among transformational foundation supporters in 2020/21. Benefaction grants to Canadian registered charities based primarily on donor recommendations.",
+    "website": "https://www.benefaction.ca/",
+    "program_url": "https://www.benefaction.ca/grants-policy",
+    "funder_country": "Canada",
+    "signal": "Historic WaterAid supporter"
+  },
+  {
+    "id": "F-DONNER",
+    "name": "Donner Canadian Foundation",
+    "type": "Canadian private foundation",
+    "status": "Active; invitation-only",
+    "geography": "Canada plus selected international development and human-rights grants",
+    "themes": [
+      "international development",
+      "environment",
+      "social impact",
+      "public policy"
+    ],
+    "access": "Invitation-only; cultivate relationship rather than submit unsolicited proposal",
+    "why": "WaterAid Canada listed Donner Canadian Foundation as a transformational supporter in 2020/21. Donner remains invitation-only and its current portfolio includes some international-development grants.",
+    "website": "https://donner.ca/",
+    "program_url": "https://donner.ca/granting/",
+    "funder_country": "Canada",
+    "signal": "Historic WaterAid supporter"
+  },
+  {
+    "id": "F-ONEDROP",
+    "name": "One Drop Foundation",
+    "type": "Canadian WASH foundation / project partner",
+    "status": "Active international WASH programming; does not accept project proposals",
+    "geography": "International WASH projects including WaterAid countries such as Colombia, India, Madagascar, Malawi, Mali and Burkina Faso",
+    "themes": [
+      "WASH",
+      "water access",
+      "sanitation",
+      "behaviour change",
+      "climate resilience"
+    ],
+    "access": "Partnership cultivation / co-design; One Drop says it does not accept project proposals",
+    "why": "One Drop has partnered directly with WaterAid Canada on Mali: Healthy Communities and runs international WASH projects in multiple WaterAid countries.",
+    "website": "https://www.onedrop.org/en/",
+    "program_url": "https://www.onedrop.org/en-us/project-partner/",
+    "funder_country": "Canada",
+    "signal": "Direct WaterAid partner"
+  }
+]

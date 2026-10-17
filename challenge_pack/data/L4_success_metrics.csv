@@ -1,0 +1,11 @@
+# SYNTHETIC - FICTIONAL ORGANIZATION FOR THE WATER CHALLENGE - NOT WATERAID DATA
+metric_id,metric,definition,target,data_source
+M1,Recommendation acceptance rate,Share of briefs fundraisers accept (PURSUE/QUEUE/CULTIVATE),Above 50% by month 3,Decision log
+M2,Eligibility error rate,Share of tool 'eligible' calls later found ineligible,Below 5%,Decision log (reason ELIG)
+M3,Fabrication rate,"Any date, amount or rule with no source quote",Zero,Weekly spot-check + acceptance tests
+M4,Acceptance-test pass rate,Share of L4 tests where tool decision matches expected,90% or higher,Quarterly test run
+M5,Staff hours saved,Prospect-research hours before vs. after,At least 4 hrs/week,Time log (2-week baseline)
+M6,Qualified opportunities per quarter,New PURSUE decisions that reach submission,4 or more,CRM
+M7,Cost per qualified opportunity,Monthly running cost x 3 / M6,Below $500,L4_Running_Cost + CRM
+M8,Win rate on tool-sourced applications,Won / (won + lost),At or above historical rate,"CRM, after 12 months"
+M9,Time to brief,Days from source change to brief,7 days or less,Snapshot + brief timestamps

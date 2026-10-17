@@ -1,0 +1,261 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "funder.schema.json",
+  "title": "Funder",
+  "description": "A grantmaker. Shared format for all teams.",
+  "type": "object",
+  "required": [
+    "funder_id",
+    "name",
+    "funder_type",
+    "last_verified"
+  ],
+  "properties": {
+    "funder_id": {
+      "type": "string"
+    },
+    "name": {
+      "type": "string"
+    },
+    "aliases": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "Other names; used for de-duplication"
+    },
+    "cra_business_number": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "funder_type": {
+      "enum": [
+        "private foundation",
+        "public foundation",
+        "community foundation",
+        "corporate foundation",
+        "corporate giving program",
+        "government program",
+        "pooled fund",
+        "US foundation",
+        "other"
+      ]
+    },
+    "hq_province": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "international_allowed": {
+      "description": "Whether beneficiaries outside Canada are eligible. Null when the source does not state it; never guessed.",
+      "type": [
+        "object",
+        "null"
+      ],
+      "required": [
+        "value",
+        "source"
+      ],
+      "properties": {
+        "value": {
+          "enum": [
+            "yes",
+            "no",
+            "restricted",
+            "unknown"
+          ]
+        },
+        "source": {
+          "$ref": "#/$defs/source"
+        },
+        "status": {
+          "enum": [
+            "confirmed",
+            "inferred"
+          ],
+          "description": "Inferred values must never be shown as fact"
+        }
+      }
+    },
+    "geographies": {
+      "description": "Eligible countries or regions (ISO2 where possible). Null when the source does not state it; never guessed.",
+      "type": [
+        "object",
+        "null"
+      ],
+      "required": [
+        "value",
+        "source"
+      ],
+      "properties": {
+        "value": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "source": {
+          "$ref": "#/$defs/source"
+        },
+        "status": {
+          "enum": [
+            "confirmed",
+            "inferred"
+          ],
+          "description": "Inferred values must never be shown as fact"
+        }
+      }
+    },
+    "themes": {
+      "description": "Theme codes from L1_Taxonomy where they map. Null when the source does not state it; never guessed.",
+      "type": [
+        "object",
+        "null"
+      ],
+      "required": [
+        "value",
+        "source"
+      ],
+      "properties": {
+        "value": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "source": {
+          "$ref": "#/$defs/source"
+        },
+        "status": {
+          "enum": [
+            "confirmed",
+            "inferred"
+          ],
+          "description": "Inferred values must never be shown as fact"
+        }
+      }
+    },
+    "applicant_restrictions": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "passport_field": {
+            "type": "string",
+            "description": "Field key from the eligibility passport, e.g. revenue_cad"
+          },
+          "rule": {
+            "type": "string"
+          },
+          "source": {
+            "$ref": "#/$defs/source"
+          }
+        }
+      }
+    },
+    "grant_range_cad": {
+      "description": "Typical min and max. Null when the source does not state it; never guessed.",
+      "type": [
+        "object",
+        "null"
+      ],
+      "required": [
+        "value",
+        "source"
+      ],
+      "properties": {
+        "value": {
+          "type": "array",
+          "items": {
+            "type": "number"
+          },
+          "minItems": 2,
+          "maxItems": 2
+        },
+        "source": {
+          "$ref": "#/$defs/source"
+        },
+        "status": {
+          "enum": [
+            "confirmed",
+            "inferred"
+          ],
+          "description": "Inferred values must never be shown as fact"
+        }
+      }
+    },
+    "access_model": {
+      "enum": [
+        "open call",
+        "LOI then invitation",
+        "rolling",
+        "invitation only",
+        "employee nomination",
+        "government call",
+        "unknown"
+      ]
+    },
+    "peer_gifts": {
+      "type": "array",
+      "description": "Gifts to peer charities found in public CRA data",
+      "items": {
+        "type": "object",
+        "properties": {
+          "recipient": {
+            "type": "string"
+          },
+          "amount_cad": {
+            "type": "number"
+          },
+          "fiscal_year": {
+            "type": "string"
+          },
+          "source": {
+            "$ref": "#/$defs/source"
+          }
+        }
+      }
+    },
+    "relationship_status": {
+      "enum": [
+        "active",
+        "warm",
+        "cold",
+        "lapsed",
+        "none",
+        "unknown"
+      ],
+      "description": "From the organization's own records only"
+    },
+    "last_verified": {
+      "type": "string",
+      "format": "date"
+    }
+  },
+  "$defs": {
+    "source": {
+      "type": "object",
+      "required": [
+        "url",
+        "retrieved",
+        "quote"
+      ],
+      "properties": {
+        "url": {
+          "type": "string"
+        },
+        "retrieved": {
+          "type": "string",
+          "format": "date"
+        },
+        "quote": {
+          "type": "string",
+          "description": "Exact text supporting the value"
+        }
+      }
+    }
+  }
+}

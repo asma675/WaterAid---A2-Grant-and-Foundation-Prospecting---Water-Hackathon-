@@ -1,0 +1,83 @@
+[
+  {
+    "funder": "Roncalli International Foundation",
+    "name": "Admissions / Foundation team",
+    "role": "Grant application support",
+    "contact_type": "Email",
+    "channel": "info@roncalli.ca / admission@roncalli.ca",
+    "url": "https://roncalli.ca/en/grant-application/",
+    "source_note": "Public grant and contact information on Roncalli site."
+  },
+  {
+    "funder": "Peter Gilgan Foundation",
+    "name": "Grant programs",
+    "role": "Funding inquiries",
+    "contact_type": "Contact form",
+    "channel": "Website contact form",
+    "url": "https://www.petergilganfoundation.org/contact/",
+    "source_note": "Official foundation contact page."
+  },
+  {
+    "funder": "Grand Challenges Canada",
+    "name": "Funding opportunities",
+    "role": "Application portal / program team",
+    "contact_type": "Portal",
+    "channel": "Fluxx / call-specific contact",
+    "url": "https://www.grandchallenges.ca/apply-for-funding/",
+    "source_note": "Official GCC funding page."
+  },
+  {
+    "funder": "Global Affairs Canada",
+    "name": "Partners@International",
+    "role": "Funding application portal",
+    "contact_type": "Portal",
+    "channel": "Partners@International",
+    "url": "https://www.international.gc.ca/world-monde/funding-financement/partners_international-partenaires_international.aspx?lang=eng",
+    "source_note": "Official GAC application portal."
+  },
+  {
+    "funder": "IDRC",
+    "name": "Funding alerts",
+    "role": "Funding opportunity alerts",
+    "contact_type": "Web",
+    "channel": "IDRC funding alerts",
+    "url": "https://idrc-crdi.ca/en/funding",
+    "source_note": "Official IDRC funding page and alerts."
+  },
+  {
+    "funder": "Aqueduct Foundation",
+    "name": "Aqueduct Foundation",
+    "role": "Foundation / DAF enquiries",
+    "contact_type": "Email / phone",
+    "channel": "aqueduct@scotiawealth.com · 1-888-852-7380",
+    "url": "https://aqueductfoundation.ca/contact/",
+    "source_note": "Aqueduct says it does not respond to charities seeking new funding; use only for existing grant/payment or donor-advisor context."
+  },
+  {
+    "funder": "Benefaction Foundation",
+    "name": "Benefaction donor services",
+    "role": "DAF grant administration",
+    "contact_type": "Email / phone",
+    "channel": "donor_services@benefaction.ca · 1-866-910-8227",
+    "url": "https://www.benefaction.ca/grants-policy",
+    "source_note": "Public grant-administration channel; donor recommendation drives most grants."
+  },
+  {
+    "funder": "Donner Canadian Foundation",
+    "name": "Foundation contact form",
+    "role": "General foundation enquiries",
+    "contact_type": "Web form / phone",
+    "channel": "donner.ca/contact · 416-920-6400",
+    "url": "https://donner.ca/contact/",
+    "source_note": "Granting is invitation-only; do not treat this as an unsolicited application route."
+  },
+  {
+    "funder": "One Drop Foundation",
+    "name": "Philanthropy Department",
+    "role": "Project financing partnerships",
+    "contact_type": "Email",
+    "channel": "phil-dev@onedrop.org",
+    "url": "https://www.onedrop.org/en-us/project-partner/",
+    "source_note": "One Drop welcomes financing partners but does not accept project proposals."
+  }
+]

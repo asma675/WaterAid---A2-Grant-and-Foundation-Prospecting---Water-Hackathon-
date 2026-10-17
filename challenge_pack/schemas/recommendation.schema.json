@@ -1,0 +1,172 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "recommendation.schema.json",
+  "title": "Recommendation",
+  "type": "object",
+  "required": [
+    "rec_id",
+    "opp_id",
+    "created",
+    "gates",
+    "decision",
+    "confidence"
+  ],
+  "properties": {
+    "rec_id": {
+      "type": "string"
+    },
+    "opp_id": {
+      "type": "string"
+    },
+    "created": {
+      "type": "string",
+      "format": "date"
+    },
+    "gates": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "gate",
+          "result"
+        ],
+        "properties": {
+          "gate": {
+            "enum": [
+              "G1",
+              "G2",
+              "G3",
+              "G4",
+              "G5",
+              "G6",
+              "G7",
+              "G8"
+            ]
+          },
+          "result": {
+            "enum": [
+              "pass",
+              "fail",
+              "uncertain"
+            ]
+          },
+          "passport_ids": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "evidence": {
+            "$ref": "#/$defs/source"
+          }
+        }
+      }
+    },
+    "criteria_scores": {
+      "type": "object",
+      "patternProperties": {
+        "^C[1-7]$": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 5
+        }
+      }
+    },
+    "fit_score": {
+      "type": [
+        "number",
+        "null"
+      ]
+    },
+    "expected_value_cad": {
+      "type": [
+        "number",
+        "null"
+      ]
+    },
+    "expected_hours": {
+      "type": [
+        "number",
+        "null"
+      ]
+    },
+    "decision": {
+      "enum": [
+        "PURSUE",
+        "PURSUE-QUEUE",
+        "CULTIVATE",
+        "REVIEW",
+        "MONITOR",
+        "DECLINE"
+      ]
+    },
+    "confidence": {
+      "enum": [
+        "high",
+        "medium",
+        "low"
+      ]
+    },
+    "relationship_path": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "person_id": {
+            "type": "string"
+          },
+          "consent": {
+            "const": "Yes"
+          },
+          "suggested_ask": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "unknowns": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "next_step": {
+      "type": "object",
+      "properties": {
+        "action": {
+          "type": "string"
+        },
+        "owner": {
+          "type": "string"
+        },
+        "due": {
+          "type": "string",
+          "format": "date"
+        }
+      }
+    }
+  },
+  "$defs": {
+    "source": {
+      "type": "object",
+      "required": [
+        "url",
+        "retrieved",
+        "quote"
+      ],
+      "properties": {
+        "url": {
+          "type": "string"
+        },
+        "retrieved": {
+          "type": "string",
+          "format": "date"
+        },
+        "quote": {
+          "type": "string",
+          "description": "Exact text supporting the value"
+        }
+      }
+    }
+  }
+}

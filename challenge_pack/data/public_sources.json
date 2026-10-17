@@ -1,0 +1,388 @@
+[
+  {
+    "id": "S-WA-WHERE",
+    "name": "WaterAid — Where we work",
+    "category": "WaterAid profile",
+    "url": "https://www.wateraid.org/ca/where-we-work",
+    "use_for": "Target-country universe for project geography",
+    "access": "Public",
+    "refresh": "Monthly",
+    "tags": [
+      "WaterAid",
+      "countries",
+      "WASH"
+    ]
+  },
+  {
+    "id": "S-WA-AR",
+    "name": "WaterAid Canada Annual Report 2024–2025",
+    "category": "WaterAid profile",
+    "url": "https://www.wateraid.org/ca/sites/g/files/jkxoof281/files/2025-10/WaterAid%20Canada%20Annual%20Report%202024-2025.pdf",
+    "use_for": "Current strategy, recent project countries and fundraising priorities",
+    "access": "Public PDF",
+    "refresh": "Annual",
+    "tags": [
+      "WaterAid Canada",
+      "strategy",
+      "projects"
+    ]
+  },
+  {
+    "id": "S-WA-PROJ",
+    "name": "WaterAid Canada — Our projects",
+    "category": "WaterAid profile",
+    "url": "https://www.wateraid.org/ca/our-projects",
+    "use_for": "Program themes, project countries and historical funding relationships",
+    "access": "Public",
+    "refresh": "Monthly",
+    "tags": [
+      "projects",
+      "WASH",
+      "countries"
+    ]
+  },
+  {
+    "id": "S-GAC-OPEN",
+    "name": "Global Affairs Canada — Funding opportunities for international assistance",
+    "category": "Canadian public funder",
+    "url": "https://www.international.gc.ca/world-monde/funding-financement/open_calls-appels_ouverts.aspx?lang=eng",
+    "use_for": "Open/upcoming international funding calls",
+    "access": "Public",
+    "refresh": "Weekly",
+    "tags": [
+      "GAC",
+      "international assistance",
+      "Canada"
+    ]
+  },
+  {
+    "id": "S-GAC-UNSOL",
+    "name": "Global Affairs Canada — Unsolicited proposals",
+    "category": "Canadian public funder",
+    "url": "https://www.international.gc.ca/world-monde/funding-financement/apply_funding-demande_financement.aspx?lang=eng",
+    "use_for": "Ongoing unsolicited proposal pathway",
+    "access": "Public",
+    "refresh": "Monthly",
+    "tags": [
+      "GAC",
+      "unsolicited"
+    ]
+  },
+  {
+    "id": "S-GAC-CFLI",
+    "name": "Canada Fund for Local Initiatives",
+    "category": "Canadian public funder",
+    "url": "https://www.international.gc.ca/world-monde/funding-financement/cfli-fcil/index.aspx?lang=eng",
+    "use_for": "Country-level small grant calls via Canadian missions",
+    "access": "Public",
+    "refresh": "Weekly",
+    "tags": [
+      "CFLI",
+      "local partners"
+    ]
+  },
+  {
+    "id": "S-GAC-PROJECTS",
+    "name": "Global Affairs Canada Project Browser",
+    "category": "Award history",
+    "url": "https://w05.international.gc.ca/projectbrowser-banqueprojets/",
+    "use_for": "Past Canadian international assistance projects, countries and partners",
+    "access": "Public",
+    "refresh": "Monthly",
+    "tags": [
+      "GAC",
+      "awards",
+      "peer tracing"
+    ]
+  },
+  {
+    "id": "S-OPEN-GRANTS",
+    "name": "Government of Canada proactive disclosure — grants and contributions",
+    "category": "Award history",
+    "url": "https://search.open.canada.ca/grants/",
+    "use_for": "Public grant and contribution award history",
+    "access": "Public open data",
+    "refresh": "Monthly",
+    "tags": [
+      "Canada",
+      "grants",
+      "awards"
+    ]
+  },
+  {
+    "id": "S-CRA",
+    "name": "CRA charity open data / T3010",
+    "category": "Canadian charity data",
+    "url": "https://www.canada.ca/en/revenue-agency/services/charities-giving/charities-listings.html",
+    "use_for": "Foundation status, qualified-donee gifts and peer tracing",
+    "access": "Public",
+    "refresh": "Annual",
+    "tags": [
+      "CRA",
+      "T3010",
+      "foundations"
+    ]
+  },
+  {
+    "id": "S-PFC",
+    "name": "Philanthropic Foundations Canada directory",
+    "category": "Funder directory",
+    "url": "https://pfc.ca/members/",
+    "use_for": "Discover Canadian philanthropic foundations",
+    "access": "Public pages",
+    "refresh": "Monthly",
+    "tags": [
+      "foundations",
+      "Canada"
+    ]
+  },
+  {
+    "id": "S-RONCALLI-APP",
+    "name": "Roncalli International Foundation — Grant application",
+    "category": "Canadian foundation",
+    "url": "https://roncalli.ca/en/grant-application/",
+    "use_for": "International grant timing and application process",
+    "access": "Public",
+    "refresh": "Monthly",
+    "tags": [
+      "Roncalli",
+      "WASH",
+      "international"
+    ]
+  },
+  {
+    "id": "S-RONCALLI-COUNTRIES",
+    "name": "Roncalli — Countries where we work",
+    "category": "Canadian foundation",
+    "url": "https://roncalli.ca/en/our-impact/our-approach/countries-where-we-work/",
+    "use_for": "Geographic eligibility against WaterAid countries",
+    "access": "Public",
+    "refresh": "Quarterly",
+    "tags": [
+      "countries",
+      "Roncalli"
+    ]
+  },
+  {
+    "id": "S-RONCALLI-ACTION",
+    "name": "Roncalli — Areas of action",
+    "category": "Canadian foundation",
+    "url": "https://roncalli.ca/en/our-impact/our-approach/areas-of-action/",
+    "use_for": "Water/sanitation and climate-resilience thematic eligibility",
+    "access": "Public",
+    "refresh": "Quarterly",
+    "tags": [
+      "water",
+      "sanitation",
+      "climate"
+    ]
+  },
+  {
+    "id": "S-PGF-INTL",
+    "name": "Peter Gilgan Foundation — International Development",
+    "category": "Canadian foundation",
+    "url": "https://www.petergilganfoundation.org/grant-program/international-development/",
+    "use_for": "International-development priorities and application status",
+    "access": "Public",
+    "refresh": "Monthly",
+    "tags": [
+      "WASH",
+      "women",
+      "health",
+      "Africa"
+    ]
+  },
+  {
+    "id": "S-PGF-GIFTS",
+    "name": "Peter Gilgan Foundation — International recipients",
+    "category": "Award history",
+    "url": "https://www.petergilganfoundation.org/grant-recipients/international/",
+    "use_for": "Peer-funding signals, grant sizes and countries",
+    "access": "Public",
+    "refresh": "Quarterly",
+    "tags": [
+      "gift history",
+      "peer tracing"
+    ]
+  },
+  {
+    "id": "S-GCC",
+    "name": "Grand Challenges Canada — Apply for funding",
+    "category": "Canadian global health funder",
+    "url": "https://www.grandchallenges.ca/apply-for-funding/",
+    "use_for": "Current international health/innovation calls",
+    "access": "Public",
+    "refresh": "Weekly",
+    "tags": [
+      "global health",
+      "innovation"
+    ]
+  },
+  {
+    "id": "S-GCC-APPROACH",
+    "name": "Grand Challenges Canada — Investment approach",
+    "category": "Canadian global health funder",
+    "url": "https://www.grandchallenges.ca/our-investment-approach/",
+    "use_for": "Funding amounts, stages and fit criteria",
+    "access": "Public",
+    "refresh": "Quarterly",
+    "tags": [
+      "POC",
+      "scale",
+      "health"
+    ]
+  },
+  {
+    "id": "S-IDRC",
+    "name": "IDRC — Funding",
+    "category": "Canadian Crown corporation",
+    "url": "https://idrc-crdi.ca/en/funding",
+    "use_for": "Research and innovation calls in the Global South",
+    "access": "Public",
+    "refresh": "Weekly",
+    "tags": [
+      "research",
+      "Global South"
+    ]
+  },
+  {
+    "id": "S-IDRC-APPLY",
+    "name": "IDRC — Applying for funding",
+    "category": "Canadian Crown corporation",
+    "url": "https://idrc-crdi.ca/en/funding/applying",
+    "use_for": "General applicant and geographic eligibility",
+    "access": "Public",
+    "refresh": "Quarterly",
+    "tags": [
+      "eligibility",
+      "research"
+    ]
+  },
+  {
+    "id": "S-MCF",
+    "name": "Mastercard Foundation — Where we work",
+    "category": "Canadian foundation",
+    "url": "https://mastercardfdn.org/en/where-we-work/",
+    "use_for": "Country overlap and strategic partnership signals",
+    "access": "Public",
+    "refresh": "Quarterly",
+    "tags": [
+      "Africa",
+      "youth",
+      "partnership"
+    ]
+  },
+  {
+    "id": "S-WA-DONORS",
+    "name": "WaterAid Canada — historic supporter lists",
+    "category": "Relationship intelligence",
+    "url": "https://www.wateraid.org/ca/annual-report-2021",
+    "use_for": "Existing/lapsed supporter exclusions and stewardship routing",
+    "access": "Public",
+    "refresh": "Annual",
+    "tags": [
+      "WaterAid",
+      "donors",
+      "stewardship"
+    ]
+  },
+  {
+    "id": "S-WA-DAF",
+    "name": "WaterAid Canada — Donor Advised Funds",
+    "category": "Fundraising channel",
+    "url": "https://www.wateraid.org/ca/donor-advised-funds",
+    "use_for": "Canadian DAF channel and qualified-donee context",
+    "access": "Public",
+    "refresh": "Quarterly",
+    "tags": [
+      "DAF",
+      "Canada"
+    ]
+  },
+  {
+    "id": "S-WA-SUPPORTERS-2021",
+    "name": "WaterAid Canada — Annual Report 2021 supporters",
+    "category": "WaterAid donor history",
+    "url": "https://www.wateraid.org/ca/annual-report-2021",
+    "use_for": "Historic Canadian foundation and corporate supporters",
+    "access": "Public",
+    "refresh": "Historical",
+    "tags": [
+      "WaterAid",
+      "supporters",
+      "foundations",
+      "Canada"
+    ]
+  },
+  {
+    "id": "S-AQUEDUCT-GRANTS",
+    "name": "Aqueduct Foundation — Grants",
+    "category": "Canadian foundation",
+    "url": "https://aqueductfoundation.ca/grants/",
+    "use_for": "DAF access model and eligibility",
+    "access": "Public",
+    "refresh": "Quarterly",
+    "tags": [
+      "Canada",
+      "DAF",
+      "foundation"
+    ]
+  },
+  {
+    "id": "S-BENEFACTION-GRANTS",
+    "name": "Benefaction Foundation — Grants Policy",
+    "category": "Canadian foundation",
+    "url": "https://www.benefaction.ca/grants-policy",
+    "use_for": "DAF grant-recipient eligibility and process",
+    "access": "Public",
+    "refresh": "Quarterly",
+    "tags": [
+      "Canada",
+      "DAF",
+      "foundation"
+    ]
+  },
+  {
+    "id": "S-DONNER-GRANTING",
+    "name": "Donner Canadian Foundation — Granting",
+    "category": "Canadian foundation",
+    "url": "https://donner.ca/granting/",
+    "use_for": "Invitation-only access, focus areas and grants",
+    "access": "Public",
+    "refresh": "Quarterly",
+    "tags": [
+      "Canada",
+      "foundation",
+      "international development"
+    ]
+  },
+  {
+    "id": "S-ONEDROP-PARTNER",
+    "name": "One Drop — Become a project partner",
+    "category": "Canadian WASH foundation",
+    "url": "https://www.onedrop.org/en-us/project-partner/",
+    "use_for": "Partnership access model for international WASH projects",
+    "access": "Public",
+    "refresh": "Quarterly",
+    "tags": [
+      "Canada",
+      "WASH",
+      "partnership"
+    ]
+  },
+  {
+    "id": "S-WA-MALI-ONEDROP",
+    "name": "WaterAid Canada — Mali: Healthy Communities",
+    "category": "WaterAid project history",
+    "url": "https://www.wateraid.org/ca/mali-healthy-communities",
+    "use_for": "Evidence of direct WaterAid–One Drop partnership",
+    "access": "Public",
+    "refresh": "Historical",
+    "tags": [
+      "WaterAid",
+      "One Drop",
+      "Mali",
+      "WASH"
+    ]
+  }
+]

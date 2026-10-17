@@ -1,0 +1,106 @@
+# SYNTHETIC - FICTIONAL ORGANIZATION FOR THE WATER CHALLENGE - NOT WATERAID DATA
+record_id,fiscal_year,submitted_date,funder_id,funder_name,funder_type,application_type,theme_code,country,ask_cad,fundraising_hours,relationship_at_submission,outcome,award_cad,decision_date,reason_or_note
+PH-001,FY2021-22,2021-04-02,F024,Elmsworth Foundation,Private foundation,Short application,WASH-GEN,Malawi,115000,24,None,Lost,0,2021-08-10,No reason given
+PH-002,FY2021-22,2021-04-18,F042,Hollis-Reach Foundation,Private foundation,LOI,WASH-GEN,Ethiopia,105000,9,Warm,Lost,0,2021-08-31,Highly competitive round
+PH-003,FY2021-22,2021-05-03,F022,Dunmore Family Trust,Private family foundation,Short application,WASH-HCF,Mozambique,40000,22,Warm,Won,31000,2021-08-09,
+PH-004,FY2021-22,2021-05-19,F047,Meridale Foundation,Private foundation,Short application,WASH-GEN,Bangladesh,145000,21,Cold,Lost,0,2021-09-29,Funded a peer organization
+PH-005,FY2021-22,2021-05-22,F023,Thornbury Foundation,Private foundation,Short application,WASH-SAN,Ethiopia,140000,25,None,Lost,0,2021-08-27,Outside current priorities
+PH-006,FY2021-22,2021-05-24,F048,Norcliffe Telecom Community Fund,Corporate giving program,Corporate proposal,WASH-HCF,Malawi,70000,39,Cold,Lost,0,2021-07-26,Outside current priorities
+PH-007,FY2021-22,2021-05-26,F004,Maplehurst Community Foundation,Community foundation,Short application,WASH-CLIM,Nepal,40000,18,None,Ineligible,0,2021-09-21,Maplehurst Region residents only
+PH-008,FY2021-22,2021-06-09,F023,Thornbury Foundation,Private foundation,Short application,WASH-HCF,Mozambique,65000,22,None,Won,58000,2021-08-16,
+PH-009,FY2021-22,2021-06-21,F031,Pinecrest Family Foundation,Private family foundation,Short application,WASH-SAN,Mozambique,40000,30,Cold,Won,31000,2021-11-02,
+PH-010,FY2021-22,2021-06-25,F012,Rivermark Insurance Group Foundation,Corporate foundation,Full proposal,WASH-CLIM,Multi-country,120000,61,Cold,Won,112000,2021-08-13,
+PH-011,FY2021-22,2021-07-22,F023,Thornbury Foundation,Private foundation,Short application,WASH-GEN,Zambia,135000,21,None,Lost,0,2021-11-24,No reason given
+PH-012,FY2021-22,2021-08-20,F033,Federal Partnerships for Health and Rights Program,Government program (fictional),Government call,WASH-HCF,Multi-country,7495000,194,Active,Won,5912000,2021-12-16,
+PH-013,FY2021-22,2021-10-21,F042,Hollis-Reach Foundation,Private foundation,LOI,WASH-SYS,Malawi,105000,7,Warm,Won,0,2021-11-30,
+PH-014,FY2021-22,2021-11-09,F046,Lowther Health Foundation,Public foundation,Short application,WASH-HYG,Zambia,200000,28,Cold,Lost,0,2022-02-12,Outside current priorities
+PH-015,FY2021-22,2021-11-10,F027,Westvale Credit Union Community Fund,Corporate giving program,Short application,WASH-SAN,Mozambique,15000,13,None,Ineligible,0,2022-01-03,Local branch communities only
+PH-016,FY2021-22,2021-11-26,F023,Thornbury Foundation,Private foundation,Short application,WASH-SAN,Nepal,95000,27,None,Lost,0,2022-03-25,Insufficient evidence of sustainability
+PH-017,FY2021-22,2021-12-04,F024,Elmsworth Foundation,Private foundation,Short application,WASH-HCF,Mozambique,100000,22,None,Lost,0,2022-01-22,Funded a peer organization
+PH-018,FY2021-22,2021-12-08,F038,Calloway-Pierce Trust,Private family foundation,LOI,WASH-HCF,Zambia,65000,8,Cold,Lost,0,2022-03-15,No reason given
+PH-019,FY2021-22,2021-12-21,F044,Juniper Lane Foundation,Private family foundation,Short application,WASH-SAN,Mozambique,65000,25,Cold,Lost,0,2022-01-31,Insufficient evidence of sustainability
+PH-020,FY2021-22,2021-12-30,F025,Bellcourt Bank Foundation,Corporate foundation,Short application,WASH-HYG,Ethiopia,60000,13,None,Ineligible,0,2022-05-15,Canadian beneficiaries only
+PH-021,FY2021-22,2022-02-13,F048,Norcliffe Telecom Community Fund,Corporate giving program,Corporate proposal,WASH-SYS,Bangladesh,50000,45,Cold,Lost,0,2022-05-30,Insufficient evidence of sustainability
+PH-022,FY2021-22,2022-02-19,F042,Hollis-Reach Foundation,Private foundation,LOI,WASH-SCH,Bangladesh,145000,7,Warm,Won,0,2022-05-21,
+PH-023,FY2021-22,2022-02-23,F023,Thornbury Foundation,Private foundation,Short application,WASH-CLIM,Multi-country,80000,29,None,Lost,0,2022-05-24,No reason given
+PH-024,FY2022-23,2022-04-20,F023,Thornbury Foundation,Private foundation,Short application,WASH-HCF,Ethiopia,150000,23,None,Won,147000,2022-08-01,
+PH-025,FY2022-23,2022-04-23,F043,Ironwood Cooperative Fund,Corporate giving program,Corporate proposal,WASH-HCF,Mozambique,35000,51,Cold,Lost,0,2022-05-29,Highly competitive round
+PH-026,FY2022-23,2022-05-01,F043,Ironwood Cooperative Fund,Corporate giving program,Corporate proposal,WASH-SYS,Zambia,20000,46,Cold,Lost,0,2022-07-30,Budget too large for funder
+PH-027,FY2022-23,2022-05-17,F024,Elmsworth Foundation,Private foundation,Short application,WASH-CLIM,Bangladesh,40000,27,None,Won,34000,2022-10-02,
+PH-028,FY2022-23,2022-05-31,F045,Kettleby Engineering Giving,Corporate giving program,Corporate proposal,WASH-SYS,Zambia,55000,34,Cold,Lost,0,2022-09-16,Funded a peer organization
+PH-029,FY2022-23,2022-07-03,F046,Lowther Health Foundation,Public foundation,Short application,WASH-CLIM,Malawi,75000,29,Cold,Lost,0,2022-09-06,No reason given
+PH-030,FY2022-23,2022-07-08,F024,Elmsworth Foundation,Private foundation,Short application,WASH-HYG,Bangladesh,110000,24,None,Lost,0,2022-10-07,Budget too large for funder
+PH-031,FY2022-23,2022-07-21,F042,Hollis-Reach Foundation,Private foundation,LOI,WASH-GEN,Nepal,130000,10,Warm,Won,0,2022-09-20,
+PH-032,FY2022-23,2022-07-22,F041,Glenarden Foundation,Private foundation,Short application,WASH-HCF,Nepal,65000,27,Cold,Lost,0,2022-11-25,Highly competitive round
+PH-033,FY2022-23,2022-07-26,F042,Hollis-Reach Foundation,Private foundation,LOI,WASH-SCH,Nepal,105000,8,Warm,Won,0,2022-11-28,
+PH-034,FY2022-23,2022-08-14,F028,Arden Global Health Fund,Public foundation,Full proposal,WASH-HCF,Bangladesh,310000,51,Warm,Won,251000,2022-09-19,
+PH-035,FY2022-23,2022-08-25,F044,Juniper Lane Foundation,Private family foundation,Short application,WASH-GEN,Bangladesh,45000,27,Cold,Won,42000,2023-01-06,
+PH-036,FY2022-23,2022-10-04,F046,Lowther Health Foundation,Public foundation,Full proposal,WASH-SAN,Zambia,150000,71,Cold,Lost,0,2022-12-28,No reason given
+PH-037,FY2022-23,2022-10-29,F024,Elmsworth Foundation,Private foundation,Short application,WASH-SAN,Nepal,105000,31,None,Lost,0,2023-01-19,Budget too large for funder
+PH-038,FY2022-23,2022-10-30,F041,Glenarden Foundation,Private foundation,Short application,WASH-SAN,Malawi,25000,23,Cold,Lost,0,2023-03-17,Outside current priorities
+PH-039,FY2022-23,2022-12-11,F029,Harbourline Foundation,Private foundation,Full proposal,WASH-SCH,Bangladesh,110000,57,Warm,Won,91000,2023-01-29,
+PH-040,FY2022-23,2023-01-02,F044,Juniper Lane Foundation,Private family foundation,Short application,WASH-GEN,Bangladesh,55000,26,Cold,Lost,0,2023-02-07,Highly competitive round
+PH-041,FY2022-23,2023-01-06,F022,Dunmore Family Trust,Private family foundation,Renewal,WASH-HCF,Ethiopia,65000,38,Active,Won,50000,2023-03-25,Final report submitted 4 months late
+PH-042,FY2022-23,2023-01-10,F010,Fenwick-Orr Foundation,Private foundation,Short application,WASH-HCF,Multi-country,40000,17,None,Ineligible,0,2023-04-20,Applicant revenue over $2M cap
+PH-043,FY2022-23,2023-01-17,F046,Lowther Health Foundation,Public foundation,Short application,WASH-CLIM,Nepal,150000,25,Cold,Withdrawn,0,,Program team could not supply budget in time
+PH-044,FY2022-23,2023-01-28,F039,Edgecliff Foundation,Private foundation,Short application,WASH-SCH,Malawi,165000,20,Cold,Lost,0,2023-04-22,Funded a peer organization
+PH-045,FY2022-23,2023-02-02,F023,Thornbury Foundation,Private foundation,Short application,WASH-HCF,Multi-country,75000,21,None,Lost,0,2023-05-06,Budget too large for funder
+PH-046,FY2022-23,2023-02-11,F038,Calloway-Pierce Trust,Private family foundation,LOI,WASH-SCH,Malawi,75000,6,Cold,Lost,0,2023-04-02,Outside current priorities
+PH-047,FY2022-23,2023-03-21,F023,Thornbury Foundation,Private foundation,Short application,WASH-CLIM,Nepal,90000,30,None,Lost,0,2023-05-14,Funded a peer organization
+PH-048,FY2023-24,2023-04-06,F001,Ashgrove Family Foundation,Private family foundation,LOI,WASH-HCF,Multi-country,65000,8,Warm,Won,0,2023-06-27,Invited to full proposal
+PH-049,FY2023-24,2023-04-27,F045,Kettleby Engineering Giving,Corporate giving program,Corporate proposal,WASH-SAN,Nepal,25000,33,Cold,Won,24000,2023-08-16,
+PH-050,FY2023-24,2023-05-14,F039,Edgecliff Foundation,Private foundation,Short application,WASH-SAN,Multi-country,75000,25,Cold,Lost,0,2023-07-16,Insufficient evidence of sustainability
+PH-051,FY2023-24,2023-06-06,F039,Edgecliff Foundation,Private foundation,Short application,WASH-HCF,Zambia,70000,20,Cold,Won,60000,2023-08-31,
+PH-052,FY2023-24,2023-06-10,F028,Arden Global Health Fund,Public foundation,Renewal,WASH-HCF,Ethiopia,380000,33,Active,Won,312000,2023-10-06,
+PH-053,FY2023-24,2023-07-07,F024,Elmsworth Foundation,Private foundation,Short application,WASH-SYS,Zambia,55000,29,None,Lost,0,2023-10-22,Budget too large for funder
+PH-054,FY2023-24,2023-07-11,F031,Pinecrest Family Foundation,Private family foundation,Short application,WASH-SAN,Multi-country,15000,30,Active,Won,14000,2023-09-15,
+PH-055,FY2023-24,2023-07-22,F038,Calloway-Pierce Trust,Private family foundation,LOI,WASH-SYS,Zambia,25000,8,Cold,Lost,0,2023-10-04,Outside current priorities
+PH-056,FY2023-24,2023-08-04,F024,Elmsworth Foundation,Private foundation,Short application,WASH-SCH,Ethiopia,50000,25,None,Won,46000,2023-09-16,
+PH-057,FY2023-24,2023-09-03,F023,Thornbury Foundation,Private foundation,Short application,WASH-GEN,Ethiopia,135000,22,None,Lost,0,2023-10-09,No reason given
+PH-058,FY2023-24,2023-09-24,F023,Thornbury Foundation,Private foundation,Short application,WASH-HCF,Bangladesh,135000,24,None,Lost,0,2023-11-07,Insufficient evidence of sustainability
+PH-059,FY2023-24,2023-09-25,F041,Glenarden Foundation,Private foundation,Short application,WASH-SCH,Ethiopia,45000,24,Cold,Lost,0,2023-11-19,Insufficient evidence of sustainability
+PH-060,FY2023-24,2023-10-30,F047,Meridale Foundation,Private foundation,Short application,WASH-SYS,Mozambique,70000,23,Cold,Lost,0,2024-01-09,Outside current priorities
+PH-061,FY2023-24,2023-11-09,F033,Federal Partnerships for Health and Rights Program,Government program (fictional),Government call,WASH-GEN,Zambia,5065000,257,Lapsed,Lost,0,2024-02-19,Scored below funding line; weak gender analysis
+PH-062,FY2023-24,2023-11-11,F026,Caldera Beverage Co. Giving,Corporate giving program,Corporate proposal,WASH-SAN,Malawi,220000,12,None,Not submitted,0,,Gift acceptance review: CEO declined
+PH-063,FY2023-24,2023-11-19,F023,Thornbury Foundation,Private foundation,Short application,WASH-GEN,Zambia,115000,30,None,Lost,0,2024-01-30,Outside gender-equality priority as framed
+PH-064,FY2023-24,2023-11-24,F012,Rivermark Insurance Group Foundation,Corporate foundation,Short application,WASH-SYS,Ethiopia,240000,31,Cold,Lost,0,2024-04-05,Highly competitive round
+PH-065,FY2023-24,2024-01-24,F001,Ashgrove Family Foundation,Private family foundation,Full proposal,WASH-HCF,Bangladesh,80000,75,Warm,Won,60000,2024-05-19,
+PH-066,FY2023-24,2024-03-01,F024,Elmsworth Foundation,Private foundation,Short application,WASH-SAN,Mozambique,110000,27,None,Lost,0,2024-07-14,Budget too large for funder
+PH-067,FY2023-24,2024-03-19,F042,Hollis-Reach Foundation,Private foundation,LOI,WASH-SAN,Ethiopia,105000,7,Warm,Lost,0,2024-05-04,Budget too large for funder
+PH-068,FY2024-25,2024-04-02,F042,Hollis-Reach Foundation,Private foundation,LOI,WASH-SAN,Malawi,45000,9,Warm,Lost,0,2024-08-07,No reason given
+PH-069,FY2024-25,2024-04-15,F020,Linden & Crane Foundation,Private foundation,Short application,WASH-HCF,Bangladesh,80000,20,None,Withdrawn,0,,Could not absorb 5% indirect cap
+PH-070,FY2024-25,2024-04-21,F038,Calloway-Pierce Trust,Private family foundation,LOI,WASH-HYG,Bangladesh,65000,10,Cold,Lost,0,2024-07-23,Budget too large for funder
+PH-071,FY2024-25,2024-05-01,F012,Rivermark Insurance Group Foundation,Corporate foundation,Short application,WASH-HYG,Mozambique,185000,22,Cold,Lost,0,2024-07-02,Insufficient evidence of sustainability
+PH-072,FY2024-25,2024-06-01,F039,Edgecliff Foundation,Private foundation,Full proposal,WASH-SYS,Bangladesh,195000,78,Cold,Withdrawn,0,,Capacity: deadline clashed with renewal
+PH-073,FY2024-25,2024-06-19,F048,Norcliffe Telecom Community Fund,Corporate giving program,Corporate proposal,WASH-SCH,Bangladesh,35000,47,Cold,Lost,0,2024-11-01,Highly competitive round
+PH-074,FY2024-25,2024-07-04,F039,Edgecliff Foundation,Private foundation,Full proposal,WASH-SAN,Ethiopia,110000,60,Cold,Won,87000,2024-11-18,
+PH-075,FY2024-25,2024-08-03,F038,Calloway-Pierce Trust,Private family foundation,LOI,WASH-SCH,Mozambique,55000,8,Cold,Won,0,2024-10-11,
+PH-076,FY2024-25,2024-08-31,F048,Norcliffe Telecom Community Fund,Corporate giving program,Corporate proposal,WASH-SAN,Nepal,35000,42,Cold,Lost,0,2024-12-01,Outside current priorities
+PH-077,FY2024-25,2024-09-28,F048,Norcliffe Telecom Community Fund,Corporate giving program,Corporate proposal,WASH-HCF,Multi-country,30000,49,Cold,Lost,0,2024-12-24,Budget too large for funder
+PH-078,FY2024-25,2024-10-15,F042,Hollis-Reach Foundation,Private foundation,LOI,WASH-HYG,Bangladesh,100000,8,Warm,Lost,0,2025-02-18,Outside current priorities
+PH-079,FY2024-25,2024-11-28,F029,Harbourline Foundation,Private foundation,Renewal,WASH-SCH,Zambia,170000,27,Active,Won,169000,2025-03-27,
+PH-080,FY2024-25,2025-01-21,F012,Rivermark Insurance Group Foundation,Corporate foundation,Corporate proposal,WASH-CLIM,Nepal,210000,50,Cold,Lost,0,2025-06-03,Highly competitive; no relationship
+PH-081,FY2024-25,2025-02-05,F012,Rivermark Insurance Group Foundation,Corporate foundation,Short application,WASH-HYG,Bangladesh,210000,27,Cold,Lost,0,2025-05-22,Funded a peer organization
+PH-082,FY2024-25,2025-02-06,F028,Arden Global Health Fund,Public foundation,Renewal,WASH-HCF,Ethiopia,230000,27,Active,Won,218000,2025-03-16,
+PH-083,FY2025-26,2025-04-19,F031,Pinecrest Family Foundation,Private family foundation,Short application,WASH-HYG,Ethiopia,25000,24,Active,Won,22000,2025-08-10,
+PH-084,FY2025-26,2025-05-10,F048,Norcliffe Telecom Community Fund,Corporate giving program,Corporate proposal,WASH-CLIM,Mozambique,90000,38,Cold,Lost,0,2025-09-22,No reason given
+PH-085,FY2025-26,2025-05-15,F038,Calloway-Pierce Trust,Private family foundation,LOI,WASH-SCH,Malawi,65000,7,Cold,Lost,0,2025-06-27,Outside current priorities
+PH-086,FY2025-26,2025-05-22,F023,Thornbury Foundation,Private foundation,Short application,WASH-HCF,Nepal,110000,25,None,Lost,0,2025-07-31,Highly competitive round
+PH-087,FY2025-26,2025-06-02,F047,Meridale Foundation,Private foundation,Short application,WASH-HCF,Mozambique,115000,29,Cold,Lost,0,2025-10-20,No reason given
+PH-088,FY2025-26,2025-06-24,F023,Thornbury Foundation,Private foundation,Short application,WASH-HYG,Malawi,130000,24,None,Lost,0,2025-08-20,No reason given
+PH-089,FY2025-26,2025-06-30,F041,Glenarden Foundation,Private foundation,Short application,WASH-HYG,Multi-country,100000,30,Cold,Lost,0,2025-09-23,Budget too large for funder
+PH-090,FY2025-26,2025-07-12,F045,Kettleby Engineering Giving,Corporate giving program,Corporate proposal,WASH-SAN,Mozambique,50000,48,Cold,Lost,0,2025-11-03,No reason given
+PH-091,FY2025-26,2025-07-24,F030,Mirelle Foundation,Private foundation,LOI,WASH-GEN,Multi-country,125000,8,Warm,Won,0,2025-11-17,"Invited to full proposal (due Nov 14, 2026)"
+PH-092,FY2025-26,2025-08-10,F038,Calloway-Pierce Trust,Private family foundation,LOI,WASH-SYS,Nepal,70000,8,Cold,Lost,0,2025-09-24,No reason given
+PH-093,FY2025-26,2025-08-11,F001,Ashgrove Family Foundation,Private family foundation,LOI,WASH-GEN,Mozambique,75000,8,Warm,Lost,0,2025-12-22,Funded peer; encouraged to reapply
+PH-094,FY2025-26,2025-08-30,F047,Meridale Foundation,Private foundation,Short application,WASH-HCF,Ethiopia,45000,28,Cold,Lost,0,2025-10-17,Budget too large for funder
+PH-095,FY2025-26,2025-09-11,F039,Edgecliff Foundation,Private foundation,Short application,WASH-SAN,Zambia,150000,29,Cold,Lost,0,2025-11-15,Highly competitive round
+PH-096,FY2025-26,2025-10-09,F046,Lowther Health Foundation,Public foundation,Full proposal,WASH-HYG,Multi-country,125000,49,Cold,Lost,0,2025-11-18,No reason given
+PH-097,FY2025-26,2025-11-16,F040,Fairholme Family Foundation,Private family foundation,Short application,WASH-GEN,Bangladesh,45000,24,Lapsed,Won,35000,2026-01-27,
+PH-098,FY2025-26,2026-01-03,F043,Ironwood Cooperative Fund,Corporate giving program,Corporate proposal,WASH-GEN,Zambia,25000,39,Cold,Won,21000,2026-05-11,
+PH-099,FY2025-26,2026-01-08,F046,Lowther Health Foundation,Public foundation,Full proposal,WASH-SAN,Zambia,145000,55,Cold,Lost,0,2026-04-28,Highly competitive round
+PH-100,FY2025-26,2026-01-10,F045,Kettleby Engineering Giving,Corporate giving program,Corporate proposal,WASH-CLIM,Mozambique,60000,43,Cold,Won,53000,2026-05-12,
+PH-101,FY2025-26,2026-01-13,F042,Hollis-Reach Foundation,Private foundation,LOI,WASH-CLIM,Nepal,100000,8,Warm,Won,0,2026-05-10,
+PH-102,FY2025-26,2026-01-14,F046,Lowther Health Foundation,Public foundation,Short application,WASH-SAN,Zambia,145000,23,Cold,Won,119000,2026-02-25,
+PH-103,FY2025-26,2026-02-12,F042,Hollis-Reach Foundation,Private foundation,LOI,WASH-SAN,Nepal,115000,7,Warm,Won,0,2026-06-09,
+PH-104,FY2025-26,2026-02-21,F038,Calloway-Pierce Trust,Private family foundation,LOI,WASH-CLIM,Ethiopia,50000,10,Cold,Won,0,2026-04-03,
