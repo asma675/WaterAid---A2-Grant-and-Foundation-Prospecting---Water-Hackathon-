@@ -1,6 +1,9 @@
 # GrantCurrent v0.7 Classic — Funding Intelligence for Global WASH
 
 GrantCurrent is a hackathon decision-support application for finding **Canadian funders and donors** for WASH projects in configurable WaterAid target countries, then deciding which opportunities deserve limited fundraising time.
+# Solution Overview 
+
+The solution provides a list of 5 new opportunities for the team to review and determine whether or not to pursue an application. This will reduce the time spent researching and allow more time for analysis, relationship building, and ultimate successful applications. 
 
 > **Canadian funding source → global WaterAid project geography → evidence → eligibility → fit → effort/capacity → human decision.**
 
